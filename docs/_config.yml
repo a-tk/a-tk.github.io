@@ -29,7 +29,7 @@ url: "https://a-tk.github.io" # the base hostname & protocol for your site, e.g.
 github_username:  a-tk
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
