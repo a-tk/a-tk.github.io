@@ -12,3 +12,4 @@ enjoy projects that are esoteric in nature. Namely, restoring old machine tools
 using analog electronics and then building things with them. I also enjoy the 
 Idaho outdoors, hiking, exploring and breathing the fresh air.
 
+![Andre](assets/headshot.jpg)
