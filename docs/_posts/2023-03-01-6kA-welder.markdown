@@ -5,7 +5,7 @@ date:   2023-03-01 00:00:00 -0700
 categories: New Project
 ---
 
-# Introduction
+## Introduction
 
 Since seeing Dan Gelbart's workshop series on youtube (highly recommended)
 I have been interested in possessing a spot welder. 
@@ -29,7 +29,7 @@ in a part is due to Joule heating, which is the square of the current
 multiplied by the time. Therefore, higher current results in significantly 
 higher energy for the same amount of time. 
 
-## Motivation
+### Motivation
 
 Which brings me to my motivation. Many MOT (Microwave Oven Transformer) Spot
 Welders require passing high current through 15A 120V breakers (this is possible for short time periods), 
@@ -48,7 +48,7 @@ materialized from what I observed.
 So, I embarked on the process of designing a building a Supercapacitor based
 Spot Welding Power Supply.
 
-### Supercapacitor? 
+#### Supercapacitor? 
 
 Wikipedia defines a Supercapacitor as "a supercapacitor (SC), also called an 
 ultracapacitor, is a high-capacity capacitor, with a capacitance value much 
@@ -57,7 +57,7 @@ higher than other capacitors but with lower voltage limits" [wikipedia-supercapa
 The final desing in this project uses a capacitor bank of 9,000 Farads charged
 to 2.7V. Thats 9 Billion times more capacitance than a 1uF cap! 
 
-# Design
+## Design
 
 At a high level, the project consists of four components: 
 
@@ -66,7 +66,7 @@ At a high level, the project consists of four components:
 3. The timing circuit
 3. The welding circuit
 
-## The Charging Circuit
+### The Charging Circuit
 
 Charding 9kF of capacitance in a resonable timeframe is not a trivial task. 
 
@@ -81,7 +81,7 @@ This module reliably charges the capacitor bank at a peak 40A until full charge.
 The critical factor is that the kSupply fits on readily available HP Server 
 Power Supplies.
 
-## The Switching Circuit
+### The Switching Circuit
 
 The Switching circuit is no doubt the most challenging aspect of a 
 supercapacitor spot welder. In a traditional spot welder using a 
@@ -110,14 +110,14 @@ from JLCPCB fully assembled for about $30 each. Again, its amazing that
 a solid state switch capable of conducting more than 6kA can be had for that
 price. 
 
-## The Timing Circuit
+### The Timing Circuit
 
 For the timing circuit, I chose to implement an analog monostable multivibrator
 using a 555 timer and a decade switch. Not only is this reliable, its 
 extremely inexpensive and can also be assembled on the same board from 
 JLCPCB. 
 
-## The Welding Circuit
+### The Welding Circuit
 
 The welding circuit consisted of all the aforementioned components, simply 
 assembled together, plus a lot of copper. As you might imagine, the copper was
@@ -134,16 +134,16 @@ Here are the main components:
     1x array of TVS diodes
     Various buttons, switches, a current shunt, and panel gauges
 
-# Construction
+## Construction
 
 I decided to manufacture as much of the welder that I could. Here is a photo 
 montage of the process. 
 
-# Results
+## Results
 
 TBD
 
-## Improvements
+### Improvements
 
 TBD
 
