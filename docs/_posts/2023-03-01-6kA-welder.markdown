@@ -101,6 +101,8 @@ switch kiloamperes of current. It is true that there are large SCRs capable of
 this, but those cannot be used because the capacitors provide a DC current, 
 and require the capacitor bank to empty before the switch would close. 
 
+![CircuitBoard](/assets/welder/CircuitBoard.JPG)
+
 This design uses a parallel configuration of 25 power mosfets, each capable 
 of pulsing 300A. Its actually incredible what modern electronics are capable
 of. After a lot of prototyping, I chose the PSMN1R0-30YLDX FET for this. Importantly,
@@ -124,6 +126,8 @@ The welding circuit consisted of all the aforementioned components, simply
 assembled together, plus a lot of copper. As you might imagine, the copper was
 the most expensive component of the BOM. 
 
+![design-2](/assets/welder/design-2.jpg)
+
 Here are the main components:
 
     3x Maxwell 2.7V 3000F Capacitors
@@ -140,14 +144,44 @@ Here are the main components:
 I decided to manufacture as much of the welder that I could. Here is a photo 
 montage of the process. 
 
+
+![build-1](/assets/welder/build-1.JPG)
+![build-2](/assets/welder/build-2.JPG)
+![build-3](/assets/welder/build-3.JPG)
+![build-4](/assets/welder/build-4.JPG)
+![build-5](/assets/welder/build-5.JPG)
+![build-6](/assets/welder/build-6.JPG)
+![build-7](/assets/welder/build-7.JPG)
+![build-8](/assets/welder/build-8.JPG)
+![build-9](/assets/welder/build-9.JPG)
+![build-10](/assets/welder/build-10.JPG)
+![build-11](/assets/welder/build-11.JPG)
+
+## Assembly
+
+After everything was built, cleaned up and painted, it was time
+for final assembly. Yes, I did use the spot welder to weld the 
+nuts to the frame for assembly.
+
+
+![assembly-1](/assets/welder/assembly-1.JPG)
+![assembly-2](/assets/welder/assembly-2.JPG)
+![assembly-3](/assets/welder/assembly-3.JPG)
+![assembly-4](/assets/welder/assembly-4.JPG)
+![assembly-5](/assets/welder/assembly-5.JPG)
+![assembly-6](/assets/welder/assembly-6.JPG)
+![assembly-7](/assets/welder/assembly-7.JPG)
+![assembly-8](/assets/welder/assembly-8.JPG)
+
 ## Results
 
-TBD
+Here are a few pictures of two simple box projects made with the welder, 
+as well as a weld through several pieces of 22Ga steel to demonstrate its
+capabilitity. 
 
-### Improvements
 
-TBD
+![results-1](/assets/welder/results-1.JPG)
+![results-2](/assets/welder/results-2.JPG)
+![results-3](/assets/welder/results-3.JPG)
 
 [wikipedia-supercapacitor]: https://en.wikipedia.org/wiki/Supercapacitor
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
