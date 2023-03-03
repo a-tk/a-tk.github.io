@@ -103,7 +103,7 @@ and require the capacitor bank to empty before the switch would close.
 
 This design uses a parallel configuration of 25 power mosfets, each capable 
 of pulsing 300A. Its actually incredible what modern electronics are capable
-of. After a lot of prototyping, I chose the PSM0 FET for this. Importantly,
+of. After a lot of prototyping, I chose the PSMN1R0-30YLDX FET for this. Importantly,
 this mosfet is stocked in JLCPCBs library, and cost about $1 each. 
 
 As you might be able to tell, I can then simply order PCBs for the welder
