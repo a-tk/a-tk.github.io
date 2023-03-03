@@ -164,14 +164,14 @@ for final assembly. Yes, I did use the spot welder to weld the
 nuts to the frame for assembly.
 
 
-![assembly-1](/assets/welder/assembly-1.JPG)
-![assembly-2](/assets/welder/assembly-2.JPG)
-![assembly-3](/assets/welder/assembly-3.JPG)
-![assembly-4](/assets/welder/assembly-4.JPG)
-![assembly-5](/assets/welder/assembly-5.JPG)
-![assembly-6](/assets/welder/assembly-6.JPG)
-![assembly-7](/assets/welder/assembly-7.JPG)
-![assembly-8](/assets/welder/assembly-8.JPG)
+![assemble-1](/assets/welder/assemble-1.JPG)
+![assemble-2](/assets/welder/assemble-2.JPG)
+![assemble-3](/assets/welder/assemble-3.JPG)
+![assemble-4](/assets/welder/assemble-4.JPG)
+![assemble-5](/assets/welder/assemble-5.JPG)
+![assemble-6](/assets/welder/assemble-6.JPG)
+![assemble-7](/assets/welder/assemble-7.JPG)
+![assemble-8](/assets/welder/assemble-8.JPG)
 
 ## Results
 
