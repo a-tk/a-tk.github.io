@@ -92,4 +92,109 @@ longitudinal feeds, and 1/10 the QCGB setting for cross-feeds.
   6. Fit leadscrew to apron
   7. (not initially planned) refurbish QCGB
 
-## Build
+## The Work
+
+The work section is organized by component, not chronologically.
+
+### Apron
+
+The apron was purchased from eBay. It seems that there are still (as of 2022) quite a few
+sellers that are parting out Logan lathes. I purchased an apron that looked okay
+where it counted (worm gear threads were okay, no mechanical damge visible).
+However, the apron was extremely dirty and packed with chips and dried oil
+and multiple coats of paint. 
+
+#### Apron Cleanup
+
+Cleaning was a matter of complete disassembly, removing grime, removing old paint,
+and degreasing.
+
+This process revealed a few worn components. 
+
+#### Apron Worm Gear Bushings
+
+The (original?) worm gear busing where worn roughly 0.015" diametrically. 
+
+This was unnacceptable, so I made a replacement pair to fit the worm gear.
+
+The worm gear has two bearing surfaces, not including the work itself. 
+Each bearing surface was worn differently, but fortunately, cylindrically.
+
+I made two new bronze replacements for the worm gear holders. 
+
+#### Apron Drive Pinion Replacement
+
+The apron also came with a worn pinion gear that drives
+the carriage across a lathe bed. I chose to repair this. 
+
+This is the first in many gear related problems for the Logan lathe. 
+
+Don't be discouraged, most gears are readily available as of 2022! 
+
+This is a 16T 16 Pitch stem pinion. There are no replacement stem pinion available
+commercially and for low price that will fit here. 
+
+The economical choice is a replacement spur gear fit to the oriinal shaft.
+
+### Saddle
+
+#### Saddle Damage
+
+#### Saddle Measurements
+
+#### Saddle Machining
+
+#### Saddle Scraping
+
+### Leadscrew & QCGB Fit
+
+#### Leadscrew First Fit
+
+#### Leadscrew Straightening
+
+#### Leadscrew Tailstock-Side Wear Repair
+
+### Quick Change Gear Box
+
+#### Gear Select Lever Crack Repair
+
+#### 'e' (16T) Gear Replacement
+
+#### 22T Gear Replacements
+
+#### 40T Gear Replacements
+
+#### Gear Re-bush
+
+#### New shafts
+
+#### Main Shaft Oil Port
+
+## Assembly and Test
+
+### Lubrication
+
+#### Quick Change Gearbox Lubrication
+
+#### Apron Lubrication
+
+All components where coated in way oil during final assembly. The two shells of the apron
+also recieved a silicone gasket to prevent a leaking oil bath. 
+
+The change gears in the arpon were coated with a small amount of Shell 
+Rotella SD Special Duty Moly Grease. 
+
+The friction clutch oil bath was filled with #2 way oil. 
+
+### Test
+
+Testing went very well! Since no one on the internet seems to publish specifications for cuts, 
+here is a table. 
+
+TESTING DATA
+
+GIF
+
+
+
+
