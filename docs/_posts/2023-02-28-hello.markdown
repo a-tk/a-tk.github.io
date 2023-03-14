@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello!"
 date:   2023-02-28 20:13:02 -0700
-categories: jekyll update
+categories: New Project
 ---
 
 Hello! I am working on this site to share my esoteric project interests. 
@@ -14,7 +14,3 @@ These include my:
 3. 1952 Logan Metal Shaper Repair and Cleanup
 4. Cast Iron Straight Edge Scraping
 5. Much more!
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
