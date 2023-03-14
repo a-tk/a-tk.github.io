@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Hello!"
-date:   2023-02-28 20:13:02 -0700
+title:  "Logan Lathe Automatic Apron Conversion"
+date:   2023-03-11 20:13:02 -0700
 categories: New Project
 ---
+![lathe](/assets/apron-conversion/cover.jpg)
 
 I own a 1946 10" Logan Lathe. It is one of the lathes that Logan
 manufactured which was resold by Montogomery-Ward. 
@@ -20,9 +21,9 @@ the accessories available on their lathes.
 
 ## Background
 
-This lathe came with what Logan called their "" apron.
+This lathe came with what Logan called their standard apron.
 
-The "" apron can provide power cross-feed and power-longitudinal feeds. 
+The standard apron can provide power cross-feed and power-longitudinal feeds. 
 
 Power longitudinal-feed is provided by half-nuts and quick change gears. 
 half-nut engagement is how single-point threads are formed. 
@@ -63,6 +64,9 @@ power longitudinal feeds and power cross feeds. The friction clutch is designed 
 an oil bath as well. Power feeds for both axes are driven from the keyway in the leadscrew,
 thus eliminating use of the leadscrew thread and halfnuts. 
 
+
+![lathe](/assets/apron-conversion/comparison.jpg)
+
 #### Notes on the Automatic Apron Conversion
 
 This is not an orginal project. Logan used the same bed casting for many of its lathes. 
@@ -102,7 +106,11 @@ The apron was purchased from eBay. It seems that there are still (as of 2022) qu
 sellers that are parting out Logan lathes. I purchased an apron that looked okay
 where it counted (worm gear threads were okay, no mechanical damge visible).
 However, the apron was extremely dirty and packed with chips and dried oil
-and multiple coats of paint. 
+and multiple coats of paint.
+
+![lathe](/assets/apron-conversion/apron-1.jpg)
+![lathe](/assets/apron-conversion/apron-2.jpg)
+![lathe](/assets/apron-conversion/apron-3.jpg)
 
 #### Apron Cleanup
 
@@ -111,16 +119,20 @@ and degreasing.
 
 This process revealed a few worn components. 
 
+![lathe](/assets/apron-conversion/apron-7.jpg)
+![lathe](/assets/apron-conversion/apron-8.jpg)
+![lathe](/assets/apron-conversion/apron-9.jpg)
+![lathe](/assets/apron-conversion/apron-10.jpg)
+![lathe](/assets/apron-conversion/apron-11.jpg)
+![lathe](/assets/apron-conversion/apron-12.jpg)
+
 #### Apron Worm Gear Bushings
 
-The (original?) worm gear busing where worn roughly 0.015" diametrically. 
+The (original?) worm gear bushings where worn roughly 0.015" diametrically. 
 
-This was unnacceptable, so I made a replacement pair to fit the worm gear.
+This was unnacceptable, so I made a replacement pair from bronze to fit the worm gear.
 
-The worm gear has two bearing surfaces, not including the work itself. 
-Each bearing surface was worn differently, but fortunately, cylindrically.
-
-I made two new bronze replacements for the worm gear holders. 
+![lathe](/assets/apron-conversion/apron-13.jpg)
 
 #### Apron Drive Pinion Replacement
 
@@ -136,23 +148,91 @@ commercially and for low price that will fit here.
 
 The economical choice is a replacement spur gear fit to the oriinal shaft.
 
+![lathe](/assets/apron-conversion/apron-14.jpg)
+
 ### Saddle
 
-#### Saddle Damage
+I purchased a saddle that would fit the apron from eBay. 
+
+The one that I purchased included a rare cross slide that would fit to a 
+taper attachement, but saddly that was broken in transit. 
+
+![lathe](/assets/apron-conversion/saddle-1.jpg)
+
+The saddle looked to be in excellent condition, and cleaned up easily.
+
+Measuring the cross slide ways revealed less than 0.002" wear, which was
+significantly better that the original saddle ways I was used to using. 
+
+However, the bedways didn't even come close to fitting my lathe bed. 
+
+Placing the saddle on the bedways resulted in it rocking back and forth. 
+
+Using shims, I measured about 0.010" rock. This was bad news. 
 
 #### Saddle Measurements
 
+Given the extent of the problem, I embarked to define the issue further. 
+
+Using techniques described in "Machine Tool Reconditioning" I conducted
+a series of measurements. 
+
+![lathe](/assets/apron-conversion/saddle-2.jpg)
+![lathe](/assets/apron-conversion/saddle-3.jpg)
+
 #### Saddle Machining
+
+As it turned out, there was enough wear that machining would be a necessary
+first step. I setup the saddle on the milling machine, and used gage blocks
+to align the surfaces in a way that would balance all of the dimensions I had measured. 
+
+![lathe](/assets/apron-conversion/saddle-4.jpg)
+
+I only decided to machine the flat ways. I removed about 0.004" from them.
+
+![lathe](/assets/apron-conversion/saddle-5.jpg)
 
 #### Saddle Scraping
 
+Next, I could scrape the ways to fit the saddle. 
+
+This is the final blueing for each way surface. 
+
+![lathe](/assets/apron-conversion/saddle-6.jpg)
+![lathe](/assets/apron-conversion/saddle-7.jpg)
+![lathe](/assets/apron-conversion/saddle-8.jpg)
+![lathe](/assets/apron-conversion/saddle-9.jpg)
+
+This isn't the best job, but its definitely functional. 
+
+I know there is wear on the bedways themselves, so I chose not to get
+to carried away with the scraping. 
+
 ### Leadscrew & QCGB Fit
 
-#### Leadscrew First Fit
+Next step was to assemble the saddle and apron, and determine where the leadscrew
+needed to be located. 
 
-#### Leadscrew Straightening
+The below picture shows the leadscrew fit to the apron, but with the original location
+of the tailstock side bearing support. As can be seen, the gearbox and the tailstock
+bearing support needed to be moved. 
 
-#### Leadscrew Tailstock-Side Wear Repair
+![lathe](/assets/apron-conversion/leadscrew-1.jpg)
+
+This was a very tedious and touchy process. I spent more time determining the 
+proper location for the gearbox and bearing support than I did scraping the saddle.
+
+In summary, the leadscrew needed to be straigtened slightly, and wear in the bedways
+had to be accounted for. 
+
+While doing the expiriment, I used gage blocks to control the location of 
+both sides. 
+
+![lathe](/assets/apron-conversion/leadscrew-2.jpg)
+
+Then, when I had the correct measurements, I machined two spacers. 
+
+![lathe](/assets/apron-conversion/leadscrew-3.jpg)
 
 ### Quick Change Gear Box
 
