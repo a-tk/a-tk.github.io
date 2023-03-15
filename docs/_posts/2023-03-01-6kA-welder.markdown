@@ -12,7 +12,8 @@ Since seeing Dan Gelbart's workshop series on youtube (highly recommended)
 I have been interested in possessing a spot welder. 
 
 Spot welders join thin sheet metal plates using the effect of Joule Heating. 
-Joule Heating relies on the resistive properties of materials and the effect that passing current through them causes. Enough current creates enough heat 
+Joule Heating relies on the resistive properties of materials and 
+the effect that passing current through them causes. Enough current creates enough heat 
 to melt steel. 
 
 Basically, the variables that effect the spot welding process are current, 
@@ -38,7 +39,7 @@ or do not provide enough current when run with 120V North American household
 circuits.
 
 Additionally, it seems that the MOT method lends itself to hobbyists that 
-want a quick expirement, not an industrial product. 
+want a quick experement, not an industrial product. 
 
 In my own shop (my garage), I only possess a North American 120V 15A circuit. 
 I have also been attracted to using Super Capacitors for supplying high
@@ -55,7 +56,7 @@ Wikipedia defines a Supercapacitor as "a supercapacitor (SC), also called an
 ultracapacitor, is a high-capacity capacitor, with a capacitance value much 
 higher than other capacitors but with lower voltage limits" [wikipedia-supercapacitor]
 
-The final desing in this project uses a capacitor bank of 9,000 Farads charged
+The final design in this project uses a capacitor bank of 9,000 Farads charged
 to 2.7V. Thats 9 Billion times more capacitance than a 1uF cap! 
 
 ## Design
@@ -69,7 +70,7 @@ At a high level, the project consists of four components:
 
 ### The Charging Circuit
 
-Charding 9kF of capacitance in a resonable timeframe is not a trivial task. 
+Charging 9kF of capacitance in a reasonable timeframe is not a trivial task. 
 
 An ideal solution for this is a buck converter powers by a well designed high 
 current power supply. commercial server computer power supplies are ideal for
