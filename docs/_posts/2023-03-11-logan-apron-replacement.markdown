@@ -69,8 +69,7 @@ thus eliminating use of the leadscrew thread and halfnuts.
 
 #### Notes on the Automatic Apron Conversion
 
-This is not an orginal project. Logan used the same bed casting for many of its lathes. 
-Because of this, many parts are interchangeable, between even 10" and 11" swing lathes. 
+Many parts on Logan lathes are interchangeable, between even 10" and 11" swing lathes. 
 
 Although people have done the conversion before, many details are not available to the public.
 
@@ -88,7 +87,7 @@ longitudinal feeds, and 1/10 the QCGB setting for cross-feeds.
 
 ## The Plan
 
-  1. Purchase suitible automatic apron and saddle
+  1. Purchase suitable automatic apron and saddle
   2. Clean, inspect and identify repairs
   3. Conduct repairs, if any
   4. Fit saddle to lathe bed
@@ -104,7 +103,7 @@ The work section is organized by component, not chronologically.
 
 The apron was purchased from eBay. It seems that there are still (as of 2022) quite a few
 sellers that are parting out Logan lathes. I purchased an apron that looked okay
-where it counted (worm gear threads were okay, no mechanical damge visible).
+where it counted (worm gear threads were okay, no mechanical damage visible).
 However, the apron was extremely dirty and packed with chips and dried oil
 and multiple coats of paint.
 
@@ -130,7 +129,7 @@ This process revealed a few worn components.
 
 The (original?) worm gear bushings where worn roughly 0.015" diametrically. 
 
-This was unnacceptable, so I made a replacement pair from bronze to fit the worm gear.
+This was unacceptable, so I made a replacement pair from bronze to fit the worm gear.
 
 ![lathe](/assets/apron-conversion/apron-13.jpg)
 
@@ -146,7 +145,7 @@ Don't be discouraged, most gears are readily available as of 2022!
 This is a 16T 16 Pitch stem pinion. There are no replacement stem pinion available
 commercially and for low price that will fit here. 
 
-The economical choice is a replacement spur gear fit to the oriinal shaft.
+The economical choice is a replacement spur gear fit to the original shaft.
 
 ![lathe](/assets/apron-conversion/apron-14.jpg)
 
@@ -155,7 +154,7 @@ The economical choice is a replacement spur gear fit to the oriinal shaft.
 I purchased a saddle that would fit the apron from eBay. 
 
 The one that I purchased included a rare cross slide that would fit to a 
-taper attachement, but saddly that was broken in transit. 
+taper attachment, but sadly that was broken in transit. 
 
 ![lathe](/assets/apron-conversion/saddle-1.jpg)
 
@@ -222,10 +221,10 @@ bearing support needed to be moved.
 This was a very tedious and touchy process. I spent more time determining the 
 proper location for the gearbox and bearing support than I did scraping the saddle.
 
-In summary, the leadscrew needed to be straigtened slightly, and wear in the bedways
+In summary, the leadscrew needed to be straightened slightly, and wear in the bedways
 had to be accounted for. 
 
-While doing the expiriment, I used gage blocks to control the location of 
+While doing the experiment, I used gage blocks to control the location of 
 both sides. 
 
 ![lathe](/assets/apron-conversion/leadscrew-2.jpg)
@@ -236,21 +235,91 @@ Then, when I had the correct measurements, I machined two spacers.
 
 ### Quick Change Gear Box
 
+The QCGB on the lathe was in good condition when I purchased the machine, but
+there were two existing problems:
+
+  1. a crack in one of the gear select levers
+  2. The 'e' gear was stripped, probably from a crash
+
+I embarked to fix these as I already had the gearbox out, and ended up doing a complete
+rebuild of the gearbox. 
+
+A note on the gears: All gears in the gearbox are 14.5 degree pressure angle, 20 pitch gears. 
+
+These are readily available from McMaster, or from Boston Gear. Don't feel like you need
+to purchase old gears from eBay at a premium price. The 'e' gear I bought was about $20.
+
 #### Gear Select Lever Crack Repair
+
+The gear select levers on this machine are aluminum, and one of them was cracked.
+
+![lathe](/assets/apron-conversion/gearbox-1.jpg)
+
+I chose to use Bernzomatic aluminum brazing rods to repair. The part was heated
+with a propane torch. 
+
+![lathe](/assets/apron-conversion/gearbox-2.jpg)
+
+After the repair, the excess was filed down to match the gear select handle. 
 
 #### 'e' (16T) Gear Replacement
 
-#### 22T Gear Replacements
+Repairing the 'e' gear was fairly straightforward. I purchased a 16T gear from McMaster
+as the replacement. The gear already featured a shoulder, but it was too small for 
+the bore of the matching 32T gear. 
 
-#### 40T Gear Replacements
+![lathe](/assets/apron-conversion/gearbox-4.jpg)
 
-#### Gear Re-bush
+A simple bushing was an easy fix for this, and the new gear was pressed and pinned. 
+
+![lathe](/assets/apron-conversion/gearbox-5.jpg)
+
+Mr Pete has a video on [replacing this exact gear.](https://www.youtube.com/watch?v=w5CuDdhdess)
+
+#### Gear Select Lever Gear Replacements
+
+The gear select levers use two gears, a 22T and a 40T change gear. The 40T gear reaches into
+the gearbox to select a gear, and transmits that to the 22T gear, which is keyed to at 5/8"
+shaft. 
+
+All 4 of these gears were terribly worn, and I replaced them with new Boston Gear parts. 
+
+The 40T gears were the most expensive of the project, and took the longest time (about 1 month)
+to be available. I think they were about $50 each. 
+
+![lathe](/assets/apron-conversion/gearbox-3.jpg)
+
+![lathe](/assets/apron-conversion/gearbox-9.jpg)
 
 #### New shafts
 
-#### Main Shaft Oil Port
+I next decided to replace the internal shafts in the gearbox. 
+
+This would be a very simple task, and the original shafts where quite worn. 
+
+![lathe](/assets/apron-conversion/gearbox-6.jpg)
+
+![lathe](/assets/apron-conversion/gearbox-7.jpg)
+
+![lathe](/assets/apron-conversion/gearbox-8.jpg)
+
+#### Lubrication
+
+Lubrication was the next hurdle. I chose a moly grease for the gears themselves, but
+that wouldn't help the shafts receive lubrication. 
+
+I ended up putting oil fittings at the end of each shaft, and a hole to a port
+under each of the gears. One of the shafts required a very long hole! 
+
+![lathe](/assets/apron-conversion/gearbox-10.jpg)
+
+![lathe](/assets/apron-conversion/gearbox-11.jpg)
+
+![lathe](/assets/apron-conversion/gearbox-12.jpg)
 
 ## Assembly and Test
+
+TBD
 
 ### Lubrication
 
