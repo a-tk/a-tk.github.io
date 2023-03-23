@@ -1,22 +1,15 @@
 ---
 layout: post
-title:  "Logan Lathe Automatic Apron Conversion"
+title:  "Surface Gage Build"
 date:   2023-03-23 20:13:02 -0700
 categories: New Project
 ---
-![lathe](/assets/apron-conversion/cover.jpg)
+Ever since learning how to scrape, I have wanted to build a replacement
+for one of my first ever tool purchases, a surface gage. 
 
-I own a 1946 10" Logan Lathe. It is one of the lathes that Logan
-manufactured which was resold by Montogomery-Ward. 
+The Shars product I own is nice enough, but I've wanted to have one
+that is really nice. 
 
-The machine came to me from a farmer in rural Idaho.
+## Design
 
-If you aren't familiar with lathes or their components, I suggest
-reading about them [here.](https://www.americanmachinetools.com/lathe_diagram.htm)
-
-Additionally, the lathes.co.uk site has a nice section on Logan and
-the accessories available on their lathes. 
-
-[Logan Lathes](http://www.lathes.co.uk/logan/index.html)
-
-## Background
+## Build
