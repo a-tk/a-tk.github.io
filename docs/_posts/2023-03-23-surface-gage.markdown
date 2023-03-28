@@ -7,6 +7,8 @@ categories: New Project
 Ever since learning how to scrape, I have wanted to build a replacement
 for one of my first ever tool purchases, a surface gage. 
 
+![surface-gage](/assets/surface-gage/surface-gage-15.JPG)
+
 The [Shars product](https://www.shars.com/7-surface-gage-1) I got when I first started
 machining works well enough, but I've always wanted to emulate the beautiful 
 [Hermann Schmidt](https://www.hschmidt.com/product/surface-gage-capacity-12-mg-1/) 
@@ -45,6 +47,8 @@ My incarnation of this design will use grey cast iron for the base pieces, and
 of whatever steel I have on hand. I'll make the attachment mast from 0.500" 
 case hardened ground stock. 
 
+![surface-gage](/assets/surface-gage/surface-gage-1.JPG)
+
 ## Build
 
 I used a metal bandsaw, milling machine, and metal lathe for this build.
@@ -62,11 +66,30 @@ size.
 
 First step was to rough-cut the material on the bandsaw. 
 
+![surface-gage](/assets/surface-gage/surface-gage-2.JPG)
+
 Next, each piece was milled to size on the milling machine.
+
+![surface-gage](/assets/surface-gage/surface-gage-3.JPG)
+
+![surface-gage](/assets/surface-gage/surface-gage-4.JPG)
+
+Followed by mounting points for the the attachment mast and fine-adjust screw.
+
+![surface-gage](/assets/surface-gage/surface-gage-5.JPG)
 
 In this design, there are 8 holes requires to attach a flexture spring, I used 
 #10-32 screws to do so, and the holes were cut. The top section required mounting holes
 for the fine-adjust knob as well as the attachment mast. 
+
+![surface-gage](/assets/surface-gage/surface-gage-6.JPG)
+
+I also built in a mounting for a 'tooling ball' which will allow the gage to 
+function as a squareness comparator in a pinch. 
+
+![surface-gage](/assets/surface-gage/surface-gage-9.JPG)
+
+![surface-gage](/assets/surface-gage/surface-gage-10.JPG)
 
 The most important feature of the base is that the top section preloads the
 spring that attaches both top and bottom sections of the base. 
@@ -75,7 +98,9 @@ To do this, the top section receives a -3 degree chamfer on the mounting face of
 When in regular service, there will always be a force created by the spring, and therefore 
 little to no backlash in the adjustment mechanism. 
 
-### Fine Adjustment knob
+![surface-gage](/assets/surface-gage/surface-gage-11.JPG)
+
+### Fine Adjustment Knob and Screw
 
 The fine adjustment knob is critical to the function of the gage. 
 
@@ -86,6 +111,18 @@ very fine adjustment screw, with a large knob that provided a nice feel to the u
 For this purpose, I had originally planned a very fine 1/2"-32 thread, but found 
 a very inexpensive 1/2"-40 tap online (only $10!). Since I could single point thread
 the adjustment knob, this is what chose to implement.
+
+![surface-gage](/assets/surface-gage/surface-gage-12.JPG)
+
+I used a cut knurl I built a last year in order to create the knurl.
+
+![surface-gage](/assets/surface-gage/surface-gage-13.JPG)
+
+Plus the attachment mast and it is pretty much completed! 
+The fine-adjust screw is quite a bit too long in my opinion. I may cut it 
+down later.
+
+![surface-gage](/assets/surface-gage/surface-gage-14.JPG)
 
 
 ### Scraping
