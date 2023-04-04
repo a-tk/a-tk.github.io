@@ -43,82 +43,35 @@ Stack. With a purely RPN design, we can use a simple stack to store the data. Ho
 we might need to implement other execution paradigms, and to do so at a later
 date might require a re-architecture.
 
-To prevent this, we are going to start looking at some examples of RPN calculations
-compared to equivalent algebraic calculations.
+To prevent this, we are going to start looking at some examples of how simple (not scientific or
+programmable calculators) behave. 
 
-### Execution Trees
+### Examples
 
-Lets compare two expressions (written with standard arithmetic composition)
+#### RPN
 
-    A: (1 + 2) / 3
+Example A
 
-    B: 1 + 2 / 3
+    1 2 + 3 /
+    Result is 1
 
-Execution Trees are the following
+In this example, the user will need to press an enter key to input numbers not immediately followed
+by a function key. They'll press 1 ENTER 2 + 3 /.
 
-#### A
-<div class="mermaid">
-  graph TD
-    A[1]
-    B[2]
-    C[+]
-    D[/]
-    E[3]
-    D---C
-    D---E
-    C---A
-    C---B
-</div>
+Upon each press of a function key, a computation is displayed for the user. After the + is pressed, 
+They'll see a 3, and after the /, they'll see a 1 (the result). 
 
-#### B
-<div class="mermaid">
-  graph TD
-    A[1]
-    B[2]
-    C[+]
-    D[/]
-    E[3]
-    C---A
-    C---D
-    D---B
-    D---E
-</div>
+#### Standard Arithmetic
 
-A will compute to a value of 1, and B a value of 1.666.
+Example A
 
-Equivalent expressions are written here with RPN
+    ( 1 + 2 ) / 3
+    Result is 1
 
-    A: 1 2 + 3 /
+Example B
 
-    B: 1 2 3 / +
-
-#### RPN A
-<div class="mermaid">
-  graph TD
-    A[1]
-    B[2]
-    C[+]
-    D[/]
-    E[3]
-    D---E
-    E---C
-    C---B
-    B---A
-</div>
-
-#### RPN B
-<div class="mermaid">
-  graph TD
-    A[1]
-    B[2]
-    C[+]
-    D[/]
-    E[3]
-    C---D
-    D---E
-    E---B
-    B---A
-</div>
+    1 + 2 / 3
+    Result is 1.66666....
 
 
 ### Program Design
