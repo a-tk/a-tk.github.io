@@ -13,7 +13,223 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 
 ## Complete
 
-## In Progress
+1. Surface gage
+2. Friden Calculator Refurb
+3. Cast iron straight edge
+4. DiAcro Bender
+5. New Cut Knurl
 
-## Todo
+6. Cloud chamber
+7. Right angle roloc air spindle (went milwaukee m12)
+8. Clean mill
+9. Mill power supply
+10. Mill moving setup
+11. Drawbar and nuts for vertical head
+12. Mill T-Nuts
+13. Indicator stand for Federal gauge amp (30mm shaft)
+14. Gaging amplifier power supply
+15. Find place for drill press
+16. Optical comparator
+17. Bandsaw table
+18. Drill Press Spindle
+19. New SOXe lamp design.
+20. Differential Screw Press
+21. Coolant spray bottle
+22. Wants
+23. Optical center punch (just find a glass sight as a replacement!)
+24. HF hydraulic press
+25. Lathe upgrades
+26. Rust prevention prep
+27. Flatten Bandsaw Table mount in Mill
+28. Apron Refurb
+29. Logan Lathe gears (try boston gear, should be all 14.5 PA)
+30. Gearbox + Apron Order of Operations
+31. Levelling feet for the mill
+32. Fix Bandsaw wheel runout
+33. Mini-14 sight
+
+## In Progress (Carried to 2023)
+
+## Cancelled
+
+1. 5C Collet Chuck as shown in Edge Precision Special Undercut Cutter-1. Really cool, and
+likely much lower profile!
+2. Socket Head Screw Counter Bore checker (shown in Snack break 9 at 4:45)
+3. Back to tank models
+4. M1911 3d printed
+5. Curta calculator print
+6. Drill press chip guard
+a. 3d print flexture clamp (2 pieces) and slots for acrylic
+b. Need large guard
+7. Arbor press brake
+
+## Todo (Carried to 2023)
+
+1. Black fire with sodium light
+a. Small alcohol burner (tetkoba&#39;s youtube channel)
+2. Lathe leftover
+a. Shim rack to fit new apron properly
+
+3. Key for Drill press ships wheel (easy mill project with collet block)
+4. Small gage for depth of scraping marks
+5. Fluidized air bed
+6. Mini hydraulic arm
+a. RC Hydraulic parts
+7. Elephant/devils toothpaste
+8. Sugar Snake (sodium bicarb + sugar + fire)
+9. Iron Sulfide reaction (iron +sulfur + heat is very exothermic)
+10. Sodium Acetate
+11. Sodium Polyacrylate
+12. Spring nail set
+13. Vintage ratcheting screwdriver: Making A Vintage Style Ratchet Screwdriver , 1891
+German &#39;&#39;Weltrekord&#39;&#39; Ratchet Screwdriver - Restoration
+14. Mini-14 sight
+a. Install
+15. Lano-lube protection
+a. Gage blocks
+16. Lathe upgrades
+a. 11&quot; headstock for larger collet size - ~$200-400
+b. 11&quot; Spindle Brake (not that expensive, but rare. Probably an easy build)
+c. Solid Toolpost for proper center height
+d. 5C Collet Closer (expensive!) - ~$400-600
+e. Optional
+i. Taper Attachment https://www.lathe.com/images/pl-taper.gif ,
+https://www.lathe.com/images/tel-taper.gif
+
+f. Sell
+i. Both tailstocks
+ii. Headstock
+iii. Headstock spindle bearings
+iv. Steady Rest
+v. Old Apron
+vi. Old carriage
+vii. Old topslide
+
+17. Simple Side Clamps that are low profile for milling machine
+18. Cross hole drill jig
+19. Heinrich vise jaws with 45 degree for round stock
+20. Consider 45* parallel for holding round stock in the vise
+21. Optical Comparator Bumpers
+22. Optical comparator V Block
+23. Wants
+a. Planimeter
+b. Gaffer tape
+c. Hot glue gun (surebonder and black glue)
+d. Silicone glue tray
+e. Wood tongue depressors
+f. Wood coffee stirrers
+g. Spring nail set (like a center punch slide hammer)
+h. Demagnetizer
+
+i. Dichroic mirrors/Xcube
+j. Planer Jack (basically big mill jacks)
+k. Chemistry wash bottle
+l. Hydrometer
+m. Milwaukee m18 drill
+n. Milwaukee impact driver
+o. Dewault step drill: https://www.amazon.com/gp/product/B0090IHBPU
+p. Wiha L keys: https://www.amazon.com/gp/product/B00CJC51MO
+q. Majestic diamond cutless gloves
+r. Gear wrench ratchet 90t
+s. Welding work clips (helping hands episode of tested)
+t. Pi tape
+u. Kopal piccolo clamp
+v. Pocket scale
+24. Di Acro Slip Roll Wear
+25. Tool rack on back of tool cart
+a. Soldering iron
+b. Common hammer + files
+c. Electric screwdriver
+d. Die grinder
+e. Milwaukee charger
+f. Drill + driver
+g. Charger
+h. Die grinder
+i. Safety glasses
+26. Dumore grinder wheel guard from sheet metal
+27. Screen printing for comparator
+a. Need
+i. Mesh screen
+ii. Oil based paint
+iii. UV curing emulsion
+iv. Designs (print required on A3 sheet)
+v. UV light source
+vi. Acrylic disks
+
+28. Diamond saw
+a. Requirements:
+i. 500 SFM (500*12=6,000 SIM; 4*3.14=12.56&quot; Circumference;
+6000/12.56=477.707 RPM)
+
+b. Materials:
+i. Two shafts
+ii. Two pulleys
+iii. Timing belt or multi v-belt
+iv. Bearings (R6-2RS)
+v. Two plastic blade guides (slight concavity on 1 to guide)
+vi. Plastic water bath (or soluble coolant? Should check)
+vii. Two plates
+viii. Standoffs
+
+1. Make them myself. Use the 3MT collet stop and carriage
+indicator
+
+ix. Small linear bearing for vice and clamping apparatus
+x. 40V Motor
+xi. 40V PSU
+c. Process:
+i. Bandsaw to size
+ii. Horizontal mill to size (3/4&quot; endmill) (finish cut climb mill)
+iii. Drill standoff holes (10-32 size) (0.218 clearance)
+iv. Countersink standoff holes (use drill press quill stop)
+v. Move vise to first slot
+vi. Cut 3/4 wide groove for clearance
+1. First drill hole
+2. Plunge 3/4 end mill
+3. Cut slot 1/2&quot; end mill
+4. Remove each sides
+5. Repeat
+vii. Mill slots
+viii. Bore Bearing features
+ix. Bore hole for motor shaft
+x. Shaft 1 in lathe
+xi. Shaft 2 in lathe
+xii. Plastic drive wheel
+xiii. Plastic driven wheel
+xiv. Electrodes for welding the saw blade
+xv. Saw blade
+
+29. Solid Toolpost
+a. Consider new cross slide too!
+30. Hex wrench organizer
+31. Proper socket set, gearwrench ratchet
+32. Machinist jacks
+33. Splash shield for spot welder
+34. Oxtools belt sander (snack break 5)
+35. Drawbar spider
+a. Face
+b. Spindle
+36. Lapping plates
+a. Maybe smaller versions for scraper blades, like 1-2&quot; copper (use spiral grooves
+for this)
+37. Rose Index
+38. Lathe Stop
+39. Toolmaker Clamps
+40. Strap clamps for a pallet and other setup needs
+41. Scraping lathe
+42. Induction heater
+a. http://inductionheatertutorial.com/
+b. http://uzzors2k.com/index.php?page=pllinductionheater1
+c. https://www.instructables.com/30-kVA-Induction-Heater/
+
+43. Telescope camera stage
+a. 3D print
+44. Telescope sextant
+45. Surface gage
+a. Build
+b. Scraping
+46. 2D physics simulation program
+47. Lever Tailstock Mod
+48. LC Oscillator Metal detector
+49. Flycutter
 
