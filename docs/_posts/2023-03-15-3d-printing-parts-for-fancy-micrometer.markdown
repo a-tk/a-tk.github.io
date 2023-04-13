@@ -86,4 +86,6 @@ cost of the Elegoo printer with these parts.
 I am also making the STL available for these, if you happen to have a MSLA printer
 and would like to give it a try. 
 
+[STL](https://github.com/a-tk/parts-files/tree/master/3d-printing/digit-mike-key)
+
 All parts were printed in Elegoo Standard Black.

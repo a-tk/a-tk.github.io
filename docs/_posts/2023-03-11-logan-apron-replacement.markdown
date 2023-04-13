@@ -233,6 +233,10 @@ Then, when I had the correct measurements, I machined two spacers.
 
 ![lathe](/assets/apron-conversion/leadscrew-3.jpg)
 
+The gearbox was moved out 0.275" from the bed and down 0.018"
+
+The tailstock support was moved out 0.269" from the bed, and down 0.018"
+
 ### Quick Change Gear Box
 
 The QCGB on the lathe was in good condition when I purchased the machine, but
