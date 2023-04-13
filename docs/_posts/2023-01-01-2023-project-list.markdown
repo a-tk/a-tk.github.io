@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2023 Project List"
+date:   2023-01-01 00:00:01 -0700
+categories: project-list, 2023
+---
+
+## The 2023 Project List
+Each and every year,  I like to keep a list of projects that I would like to work on. 
+
+For one, it helps me keep track of progress, but also keeps thoughts aligned and is a nice
+dumping ground for the wild hair projects I get when I often can't sleep.
+
+## Complete
+
+## In Progress
+
+## Todo
+
