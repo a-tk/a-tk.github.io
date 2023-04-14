@@ -2,7 +2,7 @@
 layout: post
 title:  "2021 Project List"
 date:   2021-01-01 00:00:01 -0700
-categories: project-list, 2021
+categories: project-list
 ---
 
 ## The 2021 Project List
@@ -13,160 +13,73 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 
 ## Complete
 
-1. Protractors for scraper blade radius
-2. Telescope eyepieces
-3. Print Table of Walker turner Belt Speeds
-4. Organize
-5. Dumore grinder guard
-6. Cut Knurl
-7. Pin Spanner for ER chuck
-8. Wiring Drill Press Motor Controller
-9. Deckel Grinder
-10. Lathe Drawbar
-11. Spot welded hinge from dan gelbart (cross brace hinge)
-12. 3 More grinding arbors
-13. Drill press head support clamp
-14. More rigid design for cut knurl
-15. DP 3500 repair
-16. Clean Di Acro slip roll
-17. Investigate di acro slip roll bearing wear
-18. Fix Di Acro Slip Roll Wear
-19. Conversion of desk to test lab
-20. Peltier experiments
-21. Finish garage move
-22. Fix shop lights
-23. Move ugly totes in shop
-24. Drill press spindle inspection
-25. Secure tools to tables
-26. New drill press belt tensioner with bearings
-27. Steel surface plate cover out of three u-shaped pieces
-28. Thin scraper in shaper
-29. Finish Spot Welder
-30. Finalize Electrodes
-31. Spot welder replace board and diagnose
-32. Lathe wiring box (mount under lathe!)
-33. Keyhole punch template experiments
-34. 3D printed stands for spotting drills
-35. Nixie clock
-36. Sell a lot of shit
-37. Spot welder troubleshoot flyback
-38. Material rack
-39. HF bandsaw
-40. Copper jaws for Stanley vise
-41. New jaws for Heinrich 3&quot; vise
-42. Desktop binding posts
-
-43. 3d print micrometer keys
-44. Holes in Deckel grinder attachments for 8-32 screws
-45. b&amp;s spindle clamp
-46. 3D print Tapmatic stop arm
-47. 3D print di acro bender radial stops
-48. Security camera
-49. Jacobs 6a rebuild
-50. Paint other deckel parts
-51. Tap guide
-52. 3D Print Lathe spider
-53. Brass Punches
-54. Drill press bearings
-55. New surface plate (woodcraft?)
-56. 8&quot; Dobsinion Telescope
-57. Save more through Vanguard for retirement
-58. Replace logan cross slide nut
-59. Lapping/scraping Drill press table
-60. Gage Block Inspection
-61. SOX light
-62. BK 282 repair
-63. Machine square drill press table
-
-## In Progress (Carried to 2022)
-
-1. Cast iron straight edge
-a. Drawing
-b. Material
-c. Machining
-d. Scraping
-2. DiAcro Bender
-a. #1 shims
-b. #1A new bearings
-i. Bearings measure 0.1875 x 0.740&quot;
-ii. I counted 98 (official doc says 97) so no new bearings are needed
-
-3. New Cut Knurl
-a. 45* face
-b. 60*face for straight knurling
-c. Both using bushings and 8-32 screws
-4. Cloud chamber
-a. Use peltier cooling element
-b. Test with strong fan and copper heatsink!
-c. Shoot for about -30C…
-d. Design 3D printed 2 part clamp for plastic black trash bag that contacts peltier
-device and traps alcohol vapor
-e. supersaturated when the dew point is above the temperature of the gas.
-f. Increasing the barometric pressure increases the dew point.
-g. 99.9% IPA
-h. Petri dishes with felt
-i. Try it!
-j. Potentially add new fan
-
-k. Bathe in ice salt water bath
-5. Drill press chip guard
-a. 3d print flexture clamp (2 pieces) and slots for acrylic
-b. Need large guard
-6. Drawbar spider
-a. Face
-b. Spindle
+- [x] 3D Print scraper blade radius gage
+- [x] Higher magnification telescope eyepiece
+- [x] Print Table of Walker-Turner Belt Speeds
+- [x] Organize after moving
+- [x] Dumore toolpost grinder wheel guard
+- [x] Cut Knurling tool
+- [x] Pin Spanner for ER lathe chuck
+- [x] Wiring drill press motor magnetic starter
+- [x] Deckel S0 refurbishment
+- [x] Lathe Drawbar for 3MT collet
+- [x] Spot welded cross brace hinge demo
+- [x] Three more [grinding arbors](https://github.com/a-tk/parts-files/blob/master/machine-shop/deckel-s0/Shars%20wheel%20arbor%20Drawing%20v13.pdf)
+- [x] Drill press head support clamp
+- [x] Cut knurling tool improvements
+- [x] DataPrecision 3500 repair
+- [x] Di Acro slip roll clean and inspection
+  - [x] Investigate di acro slip roll bearing wear
+  - [x] Fix Di Acro Slip Roll Wear
+- [x] Conversion of office desk to test lab
+- [x] Peltier cell experiments
+- [x] Finish garage move
+- [x] Fix shop lights
+- [x] Drill press spindle bearing inspection
+- [x] Secure tools to tables
+- [x] New drill press belt tensioner with bearings
+- [x] Steel surface plate cover out of three u-shaped pieces
+- [x] Thin scraper in shaper
+- [x] Finish Spot Welder
+  - [x] Finalize Electrodes
+  - [x] Spot welder replace board and diagnose
+  - [x] Spot welder troubleshoot flyback
+- [x] Lathe wiring box (mount under lathe!)
+- [x] Keyhole punch template experiments
+- [x] 3D printed stands for spot/center/countersink drills
+- [x] Nixie clock
+- [x] Material rack
+- [x] HF bandsaw
+- [x] Copper jaws for Stanley vise
+- [x] New jaws for Heinrich 3" vise
+- [x] Desktop binding posts
+- [x] 3d print micrometer keys
+- [x] Holes in Deckel wheel arbors for 8-32 screws
+- [x] Brown and Sharp spindle clamp
+- [x] 3D print Tapmatic stop arm
+- [x] 3D print di acro bender radial stops
+- [x] Jacobs 6a chuck rebuild
+- [x] Paint other Deckel S0 parts
+- [x] Tap guide
+- [x] 3D Print Lathe spider
+- [x] Brass Punches
+- [x] Drill press bearings
+- [x] New surface plate (woodcraft?)
+- [x] 8" Dobsinion Telescope
+- [x] Replace logan cross slide nut
+- [x] Lapping/scraping Drill press table
+- [x] Gage Block Inspection
+- [x] SOX light
+- [x] BK Precision 282 repair and sell
+- [x] Scrape drill press table flat
 
 ## Cancelled
 
-1. 3D print telescope objective extenders
-a. Measure travel, print for that
-2. Reflow oven https://www.whizoo.com/reflowoven
-a. Need 6&quot;x9&quot; capacity for spot welder
-3. Electronics
-a. Current sources
-b. https://www.mcmaster.com/1959T971/ for storing components in rolex file
-4. Section Saw reskin
-
-## Todo (Carried to 2022)
-
-1. Stainless steel Gallium heater with peltier device
-2. Toolpost grinder belt guard
-a. Use slip roll to form nice covers
-3. Dumore grinder mounting
-4. Dumore Grinder replace power plug
-5. Dumore grinder reducing collet
-a. drawing
-6. 3/4&quot; hex nut for shaper table feed
-7. Laser alignment tool shown in dan gelbarts video
-a. 3d print!
-8. Drill press table support
-a. Simple flexture clamp
-9. Spot welder back panel
-10. Knob for shaper feed adjust (not just set screw)
-11. Fluke 8200A Repair
-a. Display gets dim when powered on for a while
-12. Mount VFD to workbench for grinder with L shaped sheetmetal template
-13. Sheetmetal covers for test equipment in desk
-14. Floating thread die holder
-a. Drawing
-b. Use the 1/2&quot; 12L14 I bought for drawbar (OR THE A2 steel I have)
-c. Use the 1 1/2&quot; 1018 I have
-15. New Drill press spindle?
-a. https://www.mcmaster.com/6117K132/
-16. Bandsaw mods
-a. Extended vice
-i. https://www.mcmaster.com/8910K557-9143K333/
-b. Chip shield and collector
-c. Better vertical table
-i. https://www.mcmaster.com/9057K15/
-
-17. Aluminum jaws for welded steel vise
-a. drawing
-18. ECG Probe
-19. Squareness Comparator
-20. Chamfer tool How To Make A Clock In The Home Machine Shop - Part 13 - Depthing And
-Planting The Train
-21. Brazed clapper box
-22. Microgram balance
-a. Measure the mass of an eyelash with a DIY microbalance
-23. Tube bent ratchet wrench (Hand tool rescue example)
+- [ ] 3D print telescope objective extenders
+  - [ ] Measure travel, print for that
+- [ ] Reflow oven https://www.whizoo.com/reflowoven
+  - [ ] Need 6"x9" capacity for spot welder
+- [ ] Electronics
+  - [ ] Current sources
+- [ ] https://www.mcmaster.com/1959T971/ for storing components in rolex file
+- [ ] Section Saw reskin
