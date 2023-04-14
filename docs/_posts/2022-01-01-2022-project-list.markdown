@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "2022 Project List"
+date:   2022-01-01 00:00:01 -0700
+categories: project-list
+---
+
+## The 2022 Project List
+Each and every year,  I like to keep a list of projects that I would like to work on. 
+
+For one, it helps me keep track of progress, but also keeps thoughts aligned and is a nice
+dumping ground for the wild hair projects I get when I often can't sleep.
+
+## Complete
+
+- [x] Surface gage Design/Drawing
+- [x] Friden Calculator Refurbishment
+- [x] Cast iron straight edge
+- [x] DiAcro Bender shim replacement
+- [x] Cut knurl design and testing
+- [x] Cloud chamber
+- [x] Right angle roloc air spindle (went milwaukee m12)
+- [x] New Milling Machine
+  - [x] Clean mill
+  - [x] Mill power supply
+  - [x] Mill moving setup
+  - [x] Drawbar and nuts for vertical head
+  - [x] Mill T-Nuts
+- [x] Gaging Amplifier (Federal 230)
+  - [x] Indicator stand (30mm shaft)
+  - [x] Gaging amplifier power supply
+- [x] Find place for drill press
+- [x] Optical comparator cleanup and new glass chart
+- [x] Bandsaw vertical table
+- [x] Drill Press Spindle
+- [x] New SOXe lamp design
+- [x] Differential Screw Press
+- [x] Coolant spray bottle
+- [x] Wants
+  - [x] Optical center punch (just find a glass sight as a replacement!)
+  - [x] small hydraulic press
+- [x] Lathe upgrades
+- [x] Rust prevention prep
+- [x] Flatten Bandsaw Table mount in Mill
+- [x] Automatic Apron Conversion
+  - [x] Logan Lathe gears (try boston gear, should be all 14.5 PA)
+  - [x] Gearbox + Apron Order of Operations
+- [x] Levelling feet for the mill
+- [x] Fix bandsaw wheel runout
+- [x] Mini-14 sight
+
+## Cancelled
+
+- [ ] 5C Collet Chuck as shown in Edge Precision Special Undercut Cutter-1
+- [ ] Socket Head Screw Counter Bore checker (shown in Snack break 9 at 4:45)
+- [ ] Back to tank models
+- [ ] M1911 3d printed
+- [ ] Curta calculator print
+- [ ] Drill press chip guard
+  - [ ] 3d print flexture clamp (2 pieces) and slots for acrylic
+  - [ ] Need large guard
+- [ ] Arbor press sheet metal brake

@@ -2,7 +2,7 @@
 layout: post
 title:  "3D Printing Parts for a Fancy Micrometer"
 date:   2023-03-15 20:13:02 -0700
-categories: New Project
+categories: metrology
 ---
 
 ## The Digit Mike

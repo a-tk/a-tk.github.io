@@ -2,7 +2,7 @@
 layout: post
 title:  "Logan Lathe Automatic Apron Conversion"
 date:   2023-03-11 20:13:02 -0700
-categories: New Project
+categories: machine-shop
 ---
 ![lathe](/assets/apron-conversion/cover.jpg)
 

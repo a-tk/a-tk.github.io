@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "2021 Project List"
+date:   2021-01-01 00:00:01 -0700
+categories: project-list
+---
+
+## The 2021 Project List
+Each and every year,  I like to keep a list of projects that I would like to work on. 
+
+For one, it helps me keep track of progress, but also keeps thoughts aligned and is a nice
+dumping ground for the wild hair projects I get when I often can't sleep.
+
+## Complete
+
+- [x] 3D Print scraper blade radius gage
+- [x] Higher magnification telescope eyepiece
+- [x] Print Table of Walker-Turner Belt Speeds
+- [x] Organize after moving
+- [x] Dumore toolpost grinder wheel guard
+- [x] Cut Knurling tool
+- [x] Pin Spanner for ER lathe chuck
+- [x] Wiring drill press motor magnetic starter
+- [x] Deckel S0 refurbishment
+- [x] Lathe Drawbar for 3MT collet
+- [x] Spot welded cross brace hinge demo
+- [x] Three more [grinding arbors](https://github.com/a-tk/parts-files/blob/master/machine-shop/deckel-s0/Shars%20wheel%20arbor%20Drawing%20v13.pdf)
+- [x] Drill press head support clamp
+- [x] Cut knurling tool improvements
+- [x] DataPrecision 3500 repair
+- [x] Di Acro slip roll clean and inspection
+  - [x] Investigate di acro slip roll bearing wear
+  - [x] Fix Di Acro Slip Roll Wear
+- [x] Conversion of office desk to test lab
+- [x] Peltier cell experiments
+- [x] Finish garage move
+- [x] Fix shop lights
+- [x] Drill press spindle bearing inspection
+- [x] Secure tools to tables
+- [x] New drill press belt tensioner with bearings
+- [x] Steel surface plate cover out of three u-shaped pieces
+- [x] Thin scraper in shaper
+- [x] Finish Spot Welder
+  - [x] Finalize Electrodes
+  - [x] Spot welder replace board and diagnose
+  - [x] Spot welder troubleshoot flyback
+- [x] Lathe wiring box (mount under lathe!)
+- [x] Keyhole punch template experiments
+- [x] 3D printed stands for spot/center/countersink drills
+- [x] Nixie clock
+- [x] Material rack
+- [x] HF bandsaw
+- [x] Copper jaws for Stanley vise
+- [x] New jaws for Heinrich 3" vise
+- [x] Desktop binding posts
+- [x] 3d print micrometer keys
+- [x] Holes in Deckel wheel arbors for 8-32 screws
+- [x] Brown and Sharp spindle clamp
+- [x] 3D print Tapmatic stop arm
+- [x] 3D print di acro bender radial stops
+- [x] Jacobs 6a chuck rebuild
+- [x] Paint other Deckel S0 parts
+- [x] Tap guide
+- [x] 3D Print Lathe spider
+- [x] Brass Punches
+- [x] Drill press bearings
+- [x] New surface plate (woodcraft?)
+- [x] 8" Dobsinion Telescope
+- [x] Replace logan cross slide nut
+- [x] Lapping/scraping Drill press table
+- [x] Gage Block Inspection
+- [x] SOX light
+- [x] BK Precision 282 repair and sell
+- [x] Scrape drill press table flat
+
+## Cancelled
+
+- [ ] 3D print telescope objective extenders
+  - [ ] Measure travel, print for that
+- [ ] Reflow oven https://www.whizoo.com/reflowoven
+  - [ ] Need 6"x9" capacity for spot welder
+- [ ] Electronics
+  - [ ] Current sources
+- [ ] https://www.mcmaster.com/1959T971/ for storing components in rolex file
+- [ ] Section Saw reskin
