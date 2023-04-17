@@ -130,9 +130,9 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Telescope camera stage
   - [ ] 3D print
 - [ ] Telescope sextant
-- [ ] Surface gage
+- [x] Surface gage
   - [x] Build
-  - [ ] Scraping
+  - [x] attachment clamp
 - [ ] 2D physics simulation program
 - [ ] Lever Tailstock Mod
 - [ ] LC Oscillator Metal detector
