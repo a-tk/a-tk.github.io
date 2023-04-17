@@ -125,6 +125,25 @@ down later.
 ![surface-gage](/assets/surface-gage/surface-gage-14.JPG)
 
 
-### Scraping
+### Attachment Mast Clamp
 
-Although scraping the base is planned, the work has yet to be completed.
+With the base complete, I moved on to making the parts that will clamp
+to the mast of the gage. 
+
+I followed the design shown by Robin Renzetti and Stefan Gotteswinter.
+
+They both have detailed accounts of the build, so checkout Stefan's
+video [here.](https://www.youtube.com/watch?v=37TLOf3GWwM)
+
+![surface-gage](/assets/surface-gage/surface-gage-16.JPG)
+All the parts were fully cleaned and deburred. 
+
+The wheel also received a nice looking shallow knurl.
+
+![surface-gage](/assets/surface-gage/surface-gage-17.JPG)
+
+## Complete
+
+And with that the build is complete.
+
+![surface-gage](/assets/surface-gage/surface-gage-19.JPG)
