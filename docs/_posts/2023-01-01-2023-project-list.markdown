@@ -12,27 +12,12 @@ For one, it helps me keep track of progress, but also keeps thoughts aligned and
 dumping ground for the wild hair projects I get when I often can't sleep.
 
 ## The list
-- [ ] Black fire with SOXe light
-- [ ] Small alcohol burner (tetkoba's youtube channel)
+
+### Machine Tool Projects
+
+#### Lathe
 - [ ] Lathe apron conversion leftover
   - [ ] Shim rack to fit new apron properly
-- [ ] Key for Drill press ships wheel (easy mill project with collet block)
-- [ ] Small gage for measuring depth of scraping marks
-- [ ] Fluidized air sand bed
-- [ ] Mini hydraulic arm
-  - [ ] investigate RC Hydraulic parts
-- [ ] Elephant/devils toothpaste
-- [ ] Sugar Snake (sodium bicarb + sugar + fire)
-- [ ] Iron Sulfide reaction (iron + sulfur + heat is very exothermic)
-- [ ] Sodium Acetate -> https://www.youtube.com/watch?v=gCpyzFeTQck
-- [ ] Sodium Polyacrylate
-- [ ] Pop pop Boat
-- [ ] Spring nail set
-- [ ] Vintage Weltrekord ratcheting screwdriver
-- [x] Mini-14 sight
-- [ ] Lano-lube protection
-  - [x] Straight edge
-  - [ ] Gage blocks
 - [ ] Consider 11" lathe upgrades
   - [ ] 11" headstock for larger collet size - ~$200-400
   - [ ] 11" Spindle Brake (not that expensive, but rare. Probably an easy build)
@@ -48,46 +33,109 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [ ] Old Apron
   - [ ] Old carriage
   - [ ] Old topslide
+- [x] Drawbar spider
+  - [x] Face
+  - [x] Spindle
+- [ ] Solid Toolpost
+  - [ ] Consider new cross slide too!
+- [ ] Lathe Stop
+- [ ] Lathe v-way holder for dial indicator
+- [ ] Scraping lathe
+- [ ] Lever Tailstock Mod
+
+#### Drill Press
+- [ ] Key for Drill press ships wheel (easy mill project with collet block)
+- [ ] Redo new drill press spindle
+  - [x] Bend it
+  - [x] Redo bearing fit
+  - [x] Adjust preload by measuring end play
+  - [ ] Grind
+
+#### Metal Fabrication
+- [ ] Splash shield for spot welder
+
+#### Milling Machine
+- [ ] Mill DRO
+
+#### 3D Printing
+- [ ] Flexible 3D printing table
+
+
+### Tool Building
+- [ ] Small gage for measuring depth of scraping marks
+- [ ] Spring nail set
+- [ ] Vintage Weltrekord ratcheting screwdriver
 - [ ] Low profile milling machine side clamps
 - [ ] Cross hole drill jig
 - [ ] Heinrich vise jaws with 45 degree for round stock
 - [ ] Consider 45* parallel for holding round stock in the vise
 - [ ] Optical Comparator Bumpers
 - [ ] Optical comparator V Block
-- [ ] Wants
-  - [ ] Planimeter
-  - [ ] Gaffer tape
-  - [ ] Hot glue gun (surebonder and black glue)
-  - [ ] Silicone glue tray
-  - [ ] Wood tongue depressors
-  - [ ] Wood coffee stirrers
-  - [ ] Spring nail set (like a center punch slide hammer)
-  - [ ] Demagnetizer
-  - [ ] Dichroic mirrors/Xcube
-  - [ ] Planer Jack
-  - [ ] Chemistry wash bottle
-  - [ ] Hydrometer
-  - [ ] Milwaukee m18 drill
-  - [ ] Milwaukee impact driver
-  - [x] Milwaukee M12 ratchet 3/8 (not high speed) https://www.milwaukeetool.com/Innovations/M12/2557-20
-  - [x] Makita Impact socket sets with vinyl organizers
-  - [ ] Dewault step drill: https://www.amazon.com/gp/product/B0090IHBPU
-  - [ ] Wiha L keys: https://www.amazon.com/gp/product/B00CJC51MO
-  - [x] Majestic diamond cutless gloves
-  - [x] Gear wrench ratchet 90t
-  - [ ] Welding work clips (helping hands episode of tested)
-  - [ ] Pi tape
-  - [ ] Kopal piccolo clamp
-  - [ ] Pocket scale
-  - [ ] 6 jaw chuck (5 inch okay)
-  - [ ] 6 inch mill vise
-  - [ ] 4MM deckel collet (for center punch sharpening)
-  - [ ] Lab hotplate
-  - [ ] Socket to allen adaptors
-  - [ ] Socket extensions for 1/4" and 3/8"
-  - [ ] Arduino build your own kit
-  - [ ] Phone line simulator and two phones
+- [ ] Dumore grinder wheel guard from sheet metal
 - [ ] Rebore Di-Acro slip roll pin bushing
+- [ ] Screen printing for comparator
+  - [ ] Need
+    - [ ] Mesh screen
+    - [ ] Oil based paint
+    - [ ] UV curing emulsion
+    - [ ] Designs (print required on A3 sheet)
+    - [ ] UV light source
+    - [ ] Acrylic disks for Optical Comparator
+- [ ] Oxtools belt sander (snack break 5)
+- [ ] Lapping plates
+  - [ ] Maybe smaller versions for scraper blades, like 1-2" copper (use spiral grooves for this)
+- [ ] Machinist jacks
+- [ ] Rose Index
+- [ ] Toolmaker Clamps
+- [ ] Strap clamps for a pallet and other setup needs
+- [ ] Surface gage
+  - [x] Build
+  - [ ] Scraping
+- [ ] Abrasive diamond bandsaw
+  - [x] Blade welder electronics
+  - [ ] Adaptor for lapidary diamond blades
+- [ ] Slowspeed diamond lap with gearmotor
+  - [ ] Sendcutsend for frame
+- [ ] Float Lock vise
+- [ ] 6" sheet metal brake
+  - [ ] Sendcutsend can do 1/2" A36 plate for this purpose
+- [ ] Induction heater
+  - [ ] http://inductionheatertutorial.com/
+  - [ ] http://uzzors2k.com/index.php?page=pllinductionheater1
+  - [ ] https://www.instructables.com/30-kVA-Induction-Heater/
+- [ ] Telescope camera stage
+  - [ ] 3D print
+- [ ] Telescope sextant
+- [ ] Flycutter
+- [ ] Beam Trammel
+- [ ] Angle blocks for di acro shear
+- [ ] Hex wrench organizer with Spring
+- [ ] Bottom plate for microscope desk mount
+  - [ ] Consider it as a riser block maybe? 1" would be very helpful
+
+### Science Experiments
+- [ ] Black fire with SOXe light
+- [ ] Small alcohol burner (tetkoba's youtube channel)
+- [ ] Elephant/devils toothpaste
+- [ ] Sugar Snake (sodium bicarb + sugar + fire)
+- [ ] Iron Sulfide reaction (iron + sulfur + heat is very exothermic)
+- [ ] Sodium Acetate -> https://www.youtube.com/watch?v=gCpyzFeTQck
+- [ ] Sodium Polyacrylate
+- [ ] Pop pop Boat
+
+### Fun to Imagine
+- [ ] Fluidized air sand bed
+- [ ] Mini hydraulic arm
+  - [ ] investigate RC Hydraulic parts
+- [x] Mini-14 sight
+- [x] Railroad spike bottle opener
+- [ ] LC Oscillator Metal detector
+- [ ] 2D physics simulation program
+
+### Maintenance Improvements
+- [ ] Lano-lube protection
+  - [x] Straight edge
+  - [ ] Gage blocks
 - [ ] Tool rack on back of tool cart
   - [ ] Soldering iron
   - [ ] Common hammer + files
@@ -97,64 +145,37 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [ ] Drill + driver
   - [ ] Charger
   - [ ] Safety glasses
-- [ ] Dumore grinder wheel guard from sheet metal
-- [ ] Screen printing for comparator
-  - [ ] Need
-    - [ ] Mesh screen
-    - [ ] Oil based paint
-    - [ ] UV curing emulsion
-    - [ ] Designs (print required on A3 sheet)
-    - [ ] UV light source
-    - [ ] Acrylic disks for Optical Comparator
-- [x] Abrasive diamond bandsaw
-- [ ] Solid Toolpost
-  - [ ] Consider new cross slide too!
-- [ ] Machinist jacks
-- [ ] Splash shield for spot welder
-- [ ] Oxtools belt sander (snack break 5)
-- [x] Drawbar spider
-  - [x] Face
-  - [x] Spindle
-- [ ] Lapping plates
-  - [ ] Maybe smaller versions for scraper blades, like 1-2" copper (use spiral grooves for this)
-- [ ] Rose Index
-- [ ] Lathe Stop
-- [ ] Lathe v-way holder for dial indicator
-- [ ] Toolmaker Clamps
-- [ ] Strap clamps for a pallet and other setup needs
-- [ ] Scraping lathe
-- [ ] Induction heater
-  - [ ] http://inductionheatertutorial.com/
-  - [ ] http://uzzors2k.com/index.php?page=pllinductionheater1
-  - [ ] https://www.instructables.com/30-kVA-Induction-Heater/
-- [ ] Telescope camera stage
-  - [ ] 3D print
-- [ ] Telescope sextant
-- [x] Surface gage
-  - [x] Build
-  - [x] attachment clamp
-- [ ] 2D physics simulation program
-- [ ] Lever Tailstock Mod
-- [ ] LC Oscillator Metal detector
-- [ ] Flycutter
-- [ ] Mill DRO
-- [ ] Printout of spacing for gearbox setting
-- [ ] Beam Trammel
-- [ ] Angle blocks for di acro shear
-- [ ] Hex wrench organizer with Spring
-- [ ] Redo new drill press spindle
-  - [x] Bend it
-  - [x] Redo bearing fit
-  - [x] Adjust preload by measuring end play
-  - [ ] Grind
-- [x] Diamond Bandsaw blade welder electronics
-- [ ] Slowspeed diamond lap with gearmotor
-  - [ ] Sendcutsend for frame
-- [ ] Float Lock vise
-- [x] Railroad spike bottle opener
-- [ ] 6" sheet metal brake
-  - [ ] Sendcutsend can do 1/2" A36 plate for this purpose
-- [ ] Bottom plate for microscope desk mount
-  - [ ] Consider it as a riser block maybe? 1" would be very helpful
-- [ ] Flexible 3d printing table
-- [ ] Diamond Bandsaw adaptor for lapidary diamond blades
+
+### WTB
+- [ ] Planimeter
+- [ ] Gaffer tape
+- [ ] Hot glue gun (surebonder and black glue)
+- [ ] Silicone glue tray
+- [ ] Wood tongue depressors
+- [ ] Wood coffee stirrers
+- [ ] Spring nail set (like a center punch slide hammer)
+- [ ] Demagnetizer
+- [ ] Dichroic mirrors/Xcube
+- [ ] Planer Jack
+- [ ] Chemistry wash bottle
+- [ ] Hydrometer
+- [ ] Milwaukee m18 drill
+- [ ] Milwaukee impact driver
+- [x] Milwaukee M12 ratchet 3/8 (not high speed) https://www.milwaukeetool.com/Innovations/M12/2557-20
+- [x] Makita Impact socket sets with vinyl organizers
+- [ ] Dewault step drill: https://www.amazon.com/gp/product/B0090IHBPU
+- [ ] Wiha L keys: https://www.amazon.com/gp/product/B00CJC51MO
+- [x] Majestic diamond cutless gloves
+- [x] Gear wrench ratchet 90t
+- [ ] Welding work clips (helping hands episode of tested)
+- [ ] Pi tape
+- [ ] Kopal piccolo clamp
+- [ ] Pocket scale
+- [ ] 6 jaw chuck (5 inch okay)
+- [ ] 6 inch mill vise
+- [ ] 4MM Deckel collet (for center punch sharpening)
+- [ ] Lab hotplate
+- [ ] Socket to allen adaptors
+- [ ] Socket extensions for 1/4" and 3/8"
+- [ ] Arduino "build your own" kit
+- [ ] Phone line simulator and two phones
