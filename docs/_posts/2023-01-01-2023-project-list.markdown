@@ -72,7 +72,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Optical Comparator Bumpers
 - [ ] Optical comparator V Block
 - [ ] Dumore grinder wheel guard from sheet metal
-- [ ] Rebore Di-Acro slip roll pin bushing
+- [x] Rebore Di-Acro slip roll pin bushing
 - [ ] Screen printing for comparator
   - [ ] Need
     - [ ] Mesh screen
