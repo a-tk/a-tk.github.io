@@ -136,15 +136,13 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Lano-lube protection
   - [x] Straight edge
   - [ ] Gage blocks
-- [ ] Tool rack on back of tool cart
-  - [ ] Soldering iron
-  - [ ] Common hammer + files
-  - [ ] Electric screwdriver
-  - [ ] Die grinder
-  - [ ] Milwaukee charger
-  - [ ] Drill + driver
-  - [ ] Charger
-  - [ ] Safety glasses
+- [x] Tool rack on back of tool cart
+  - [x] Common hammer + files
+  - [x] Electric screwdriver
+  - [x] Milwaukee charger
+  - [x] Drill + driver
+  - [x] Charger
+  - [x] Safety glasses
 
 ### WTB
 - [ ] Planimeter
