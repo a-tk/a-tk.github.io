@@ -90,7 +90,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Strap clamps for a pallet and other setup needs
 - [ ] Surface gage
   - [x] Build
-  - [ ] Scraping
+  - [x] Attachment clamp
 - [ ] Abrasive diamond bandsaw
   - [x] Blade welder electronics
   - [ ] Adaptor for lapidary diamond blades
