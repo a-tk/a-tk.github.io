@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Fluke 8200A Multimeter Repair"
+date:   2023-04-26 20:13:02 -0700
+categories: electronics
+---
+I have a fascination with esoteric multimeters, which is particularly attracted to late 70's
+and early 80's scopes that used Nixie tube and Panaplex tube displays. 
+
+In my small but respectable collection, I have a Fluke 8200A that works well. 
+
+This is a 4 1/2 digit meter that uses Nixies for its display. 
+
+![fluke](/assets/fluke-repair/fluke-5.jpg)
+
+## The Problem
+
+Recently, I needed to leave the scope powered on for about one hour, and when I returned
+the Nixie display was completely dim. 
+
+Cycling the meter revealed that the display would turn on briefly, and continue getting dimmer
+and dimmer until it appeared off. 
+
+If you don't know, Nixie tubes (and other tube based displays) require about 200VDC to power the tubes.
+
+This means that they require a digital logic board to do the digital conversion which is tolerant
+of the high voltages, as well as a 200VDC power supply. 
+
+![fluke](/assets/fluke-repair/fluke-2.jpg)
+
+## Investigation
+
+Immediately suspect is the power supply. The power supply board on this meter is pretty simple.
+It takes 3 AC lines from a transformer as input and runs a simple linear regulator for each output 
+(5VDC, 15 and -15VDC, and 200VDC). Fluke nicely has a set of test points for each one, and a 
+troubleshooting for each rail. 
+
+Of course, the 200VDC rail is the important one here, but first I inspected the board overall. 
+
+![fluke](/assets/fluke-repair/fluke-1.jpg)
+
+I was immediately drawn to the discoloration at the diode rectifier arrays. 
+
+Closer inspection revealed that those are the diodes for the 15V/-15V rails. I also verified that 
+they weren't getting hot with the board at idle, and left them as is. The board has signs of previous
+repair (the electrolytic filter caps near the input) and the orange cap in the middle of the board. 
+Perhaps that was an old problem, and not immediately relevant to this new issue. 
+
+I then followed the manual's inspection procedure for the 200V rail, and observed it
+outputting 140V, which is consistent with the dim display. 
+
+![fluke](/assets/fluke-repair/fluke-6.jpg)
+
+According to the schematic, there isn't much between the rectifiers and the output that can
+affect the 200V rail. First, is the 8uF filter cap on the output. This is the orange cap
+in the middle of the board. This was easily confirmed to be acceptable by using an oscilloscope 
+to validate the ripple on the cap under power, as well as the voltage. Both were okay, and
+just to make sure I removed the cap to check its ESR. At about 5 ohms for this HV cap, 
+that also was okay. 
+
+Next, was to check the active components of the voltage regulator. 
+
+![fluke](/assets/fluke-repair/fluke-7.jpg)
+
+This is a very clever regulator. I would have expected to see a Zener diode in here, or
+in a more modern design an LM78xx family 3 terminal regulator (although I don't know if those are available
+such high voltages).
+
+It appears that Q1 conducts when C1 gets enough charge, and Q1 sets a voltage to the base of Q2 based on the resistor
+divider network R3 and R4. 
+
+## Resolution
+
+
