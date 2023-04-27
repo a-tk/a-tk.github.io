@@ -91,6 +91,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Surface gage
   - [x] Build
   - [x] Attachment clamp
+  - [ ] 2 duplicate attachment clamps
 - [ ] Abrasive diamond bandsaw
   - [x] Blade welder electronics
   - [ ] Adaptor for lapidary diamond blades
@@ -112,6 +113,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Hex wrench organizer with Spring
 - [ ] Bottom plate for microscope desk mount
   - [ ] Consider it as a riser block maybe? 1" would be very helpful
+- [ ] Tailstock die holder
 
 ### Science Experiments
 - [ ] Black fire with SOXe light
@@ -143,6 +145,11 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
+- [ ] Fluke 8200 Repair
+- [ ] Carbide Spot Drill Repair
+- [ ] Carbide 3-facet spot drills
+- [ ] Riser block for microscope
+- [ ] Steady-rest repair
 
 ### WTB
 - [ ] Planimeter
