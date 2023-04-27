@@ -145,7 +145,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
-- [ ] Fluke 8200 Repair
+- [x] Fluke 8200 RepairFluke
 - [ ] Carbide Spot Drill Repair
 - [ ] Carbide 3-facet spot drills
 - [ ] Riser block for microscope
