@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fluke 8200A Multimeter Repair"
-date:   2023-04-26 20:13:02 -0700
+date:   2023-04-25 20:13:02 -0700
 categories: electronics
 ---
 I have a fascination with esoteric multimeters, which is particularly attracted to late 70's
@@ -33,7 +33,7 @@ of the high voltages, as well as a 200VDC power supply.
 Immediately suspect is the power supply. The power supply board on this meter is pretty simple.
 It takes 3 AC lines from a transformer as input and runs a simple linear regulator for each output 
 (5VDC, 15 and -15VDC, and 200VDC). Fluke nicely has a set of test points for each one, and a 
-troubleshooting for each rail. 
+troubleshooting procedure for each rail. 
 
 Of course, the 200VDC rail is the important one here, but first I inspected the board overall. 
 
@@ -66,9 +66,53 @@ This is a very clever regulator. I would have expected to see a Zener diode in h
 in a more modern design an LM78xx family 3 terminal regulator (although I don't know if those are available
 such high voltages).
 
-It appears that Q1 conducts when C1 gets enough charge, and Q1 sets a voltage to the base of Q2 based on the resistor
-divider network R3 and R4. 
+It appears that Q1 conducts when C1 gets enough charge, and Q1 sets a voltage to the base of Q2 based 
+on the resistor divider network R3 and R4. Q1 output is balanced because when the R3/R4 network
+provide enough current to Q2, Q2 provides a low impedance path as an alternative to the base of 
+Q1, and therefore proportionally reduces the gain provided by the transistor. 
 
-## Resolution
+If there is one thing to take away from this simple repair, I think it would be the design of 
+this regulator. Searching on the web didn't reveal much information on this type of design.
+
+### Critical Temperature
+
+After the board was running for a bit, I discovered that R2 had reached a temperature of 
+100C and Q2 was close to 50C. Although R2 needs to dissipate quite a bit of energy, 
+it was unlikely to be this amount. 
+
+This indicated that Q2 was acting abnormally.
+
+Q2 was removed, and given the diode test with a multimeter. It passed. 
+
+Since Q2 passed, Q1 was removed on the suspicion that it was acting improperly as well. 
+However, Q1 also passed the diode test.
+
+Without a means to further test the transistors (I have a Tektronix 577 curve tracer,
+but it needs a repair, so it was unavailable today), I decided to trade Q1 for Q2 and 
+vice-versa. (Note, Q1 and Q2 are the same transistor type, RCA 65120). Unfortunately,
+RCA 65120 appears to be a Fluke specific transistor, and I didn't immediately
+find a replacement. 
+
+### Resolution
+
+To my rejoice, exchanging the transistors worked! 
+
+![fluke](/assets/fluke-repair/fluke-5.jpg)
+
+Given the lack of available new replacements for either transistor, it was 
+determined that this was enough for this issue. 
+
+Left unresolved is a potential over-current condition on the 15V rail (remember
+the burn marks!). Unless something else becomes a symptom, it will stay that way. 
+Inspection showed that the PCB lands for those 4 diodes were damaged in the event,
+so I retain an advantage by not touching them. 
+
+Additionally, I might continue searching for a transistor replacement. The hypothesis
+on the failure is that Q2 naturally exists with a high power dissipation. Basically,
+R2 will drop quite a bit of voltage, and even with a low resistance, Q2 will drop the
+remainder to 15V, even with low resistance will consume a bit of power. 
+
+Over time, this must have negatively affected the transistor in a way that Q1 was not
+affected. Switching the transistors should be enough for a temporary solution.
 
 
