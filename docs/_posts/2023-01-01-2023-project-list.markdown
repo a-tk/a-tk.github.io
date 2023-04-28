@@ -134,7 +134,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] LC Oscillator Metal detector
 - [ ] 2D physics simulation program
 
-### Maintenance Improvements
+### Maintenance/Improvements
 - [ ] Lano-lube protection
   - [x] Straight edge
   - [ ] Gage blocks
@@ -150,6 +150,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Carbide 3-facet spot drills
 - [ ] Riser block for microscope
 - [ ] Steady-rest repair
+- [ ] Aluminum Vise Jaws
 
 ### WTB
 - [ ] Planimeter
