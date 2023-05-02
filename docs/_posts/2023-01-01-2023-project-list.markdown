@@ -44,7 +44,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Lever Tailstock Mod
 
 #### Drill Press
-- [ ] Key for Drill press ships wheel (easy mill project with collet block)
+- [x] Key for Drill press ships wheel (easy mill project with collet block)
 - [ ] Redo new drill press spindle
   - [x] Bend it
   - [x] Redo bearing fit
@@ -109,10 +109,10 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Telescope sextant
 - [ ] Flycutter
 - [ ] Beam Trammel
-- [ ] Angle blocks for di acro shear
+- [ ] Angle blocks for Di Acro shear
 - [ ] Hex wrench organizer with Spring
-- [ ] Bottom plate for microscope desk mount
-  - [ ] Consider it as a riser block maybe? 1" would be very helpful
+- [x] Bottom plate for microscope desk mount
+  - [x] Used 3" 6061 round stock, 1" thick
 - [ ] Tailstock die holder
 
 ### Science Experiments
@@ -145,12 +145,12 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
-- [x] Fluke 8200 RepairFluke
+- [x] Fluke 8200 Repair
 - [ ] Carbide Spot Drill Repair
 - [ ] Carbide 3-facet spot drills
 - [ ] Riser block for microscope
 - [ ] Steady-rest repair
-- [ ] Aluminum Vise Jaws
+- [x] Aluminum vise jaws for welded steel vise
 
 ### WTB
 - [ ] Planimeter
