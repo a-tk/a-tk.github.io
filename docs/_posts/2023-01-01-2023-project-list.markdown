@@ -61,7 +61,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Flexible 3D printing table
 
 ### Tool Building
-- [ ] Small gage for measuring depth of scraping marks
+- [x] Small gage for measuring depth of scraping marks
 - [ ] Spring nail set
 - [ ] Vintage Weltrekord ratcheting screwdriver
 - [ ] Low profile milling machine side clamps
@@ -184,3 +184,4 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Socket extensions for 1/4" and 3/8"
 - [ ] Arduino "build your own" kit
 - [ ] Phone line simulator and two phones
+- [ ] MT2 AXA Toolpost holder
