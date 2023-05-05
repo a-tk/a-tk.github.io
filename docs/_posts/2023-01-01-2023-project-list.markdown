@@ -185,3 +185,4 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Arduino "build your own" kit
 - [ ] Phone line simulator and two phones
 - [ ] MT2 AXA Toolpost holder
+- [ ] Jet acrylic powder
