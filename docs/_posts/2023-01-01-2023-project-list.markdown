@@ -60,9 +60,8 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 #### 3D Printing
 - [ ] Flexible 3D printing table
 
-
 ### Tool Building
-- [ ] Small gage for measuring depth of scraping marks
+- [x] Small gage for measuring depth of scraping marks
 - [ ] Spring nail set
 - [ ] Vintage Weltrekord ratcheting screwdriver
 - [ ] Low profile milling machine side clamps
@@ -81,6 +80,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
     - [ ] Designs (print required on A3 sheet)
     - [ ] UV light source
     - [ ] Acrylic disks for Optical Comparator
+- [ ] White glue paint that is used on glass lampshades
 - [ ] Oxtools belt sander (snack break 5)
 - [ ] Lapping plates
   - [ ] Maybe smaller versions for scraper blades, like 1-2" copper (use spiral grooves for this)
@@ -88,13 +88,13 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Rose Index
 - [ ] Toolmaker Clamps
 - [ ] Strap clamps for a pallet and other setup needs
-- [ ] Surface gage
+- [x] Surface gage
   - [x] Build
   - [x] Attachment clamp
-  - [ ] 2 duplicate attachment clamps
-- [ ] Abrasive diamond bandsaw
+  - [x] 2 duplicate attachment clamps
+- [x] Abrasive diamond bandsaw
   - [x] Blade welder electronics
-  - [ ] Adaptor for lapidary diamond blades
+  - [x] Adaptor for lapidary diamond blades
 - [ ] Slowspeed diamond lap with gearmotor
   - [ ] Sendcutsend for frame
 - [ ] Float Lock vise
@@ -148,7 +148,6 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [x] Fluke 8200 Repair
 - [ ] Carbide Spot Drill Repair
 - [ ] Carbide 3-facet spot drills
-- [ ] Riser block for microscope
 - [ ] Steady-rest repair
 - [x] Aluminum vise jaws for welded steel vise
 
@@ -185,3 +184,4 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Socket extensions for 1/4" and 3/8"
 - [ ] Arduino "build your own" kit
 - [ ] Phone line simulator and two phones
+- [ ] MT2 AXA Toolpost holder
