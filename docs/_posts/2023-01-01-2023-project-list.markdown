@@ -97,7 +97,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Adaptor for lapidary diamond blades
 - [ ] Slowspeed diamond lap with gearmotor
   - [ ] Sendcutsend for frame
-- [ ] Float Lock vise
+- [ ] Float Lock vise - column clamping ring would be good too
 - [ ] 6" sheet metal brake
   - [ ] Sendcutsend can do 1/2" A36 plate for this purpose
 - [ ] Induction heater
