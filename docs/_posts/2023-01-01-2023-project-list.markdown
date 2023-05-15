@@ -114,6 +114,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [x] Bottom plate for microscope desk mount
   - [x] Used 3" 6061 round stock, 1" thick
 - [ ] Tailstock die holder
+- [ ] Mill spindle indicator clamp
 
 ### Science Experiments
 - [ ] Black fire with SOXe light
@@ -129,6 +130,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Fluidized air sand bed
 - [ ] Mini hydraulic arm
   - [ ] investigate RC Hydraulic parts
+  - [ ] Can make cheap toy from plungers
 - [x] Mini-14 sight
 - [x] Railroad spike bottle opener
 - [ ] LC Oscillator Metal detector
@@ -145,11 +147,15 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
-- [x] Fluke 8200 Repair
 - [ ] Carbide Spot Drill Repair
 - [ ] Carbide 3-facet spot drills
 - [ ] Steady-rest repair
 - [x] Aluminum vise jaws for welded steel vise
+
+### Electronics
+- [ ] Tektronix 577 Repair
+- [x] Fluke 8200 Repair
+- [ ] Monostable multivibrator PCB design
 
 ### WTB
 - [ ] Planimeter
@@ -164,12 +170,15 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Planer Jack
 - [ ] Chemistry wash bottle
 - [ ] Hydrometer
-- [ ] Milwaukee m18 drill
-- [ ] Milwaukee impact driver
-- [x] Milwaukee M12 ratchet 3/8 (not high speed) https://www.milwaukeetool.com/Innovations/M12/2557-20
-- [x] Makita Impact socket sets with vinyl organizers
+- [ ] New Tools
+  - [ ] Milwaukee M18 Fuel Drill/Driver combo
+  - [ ] Milwaukee M18 Fuel Router
+  - [x] Milwaukee M12 ratchet 3/8 (not high speed)
+  - [x] Makita Impact socket sets with vinyl organizers
+  - [ ] Jigsaw (possibly M18 based)
+  - [ ] Pneumatic brad nailer
+  - [ ] Random orbit sander
 - [ ] Dewault step drill: https://www.amazon.com/gp/product/B0090IHBPU
-- [ ] Wiha L keys: https://www.amazon.com/gp/product/B00CJC51MO
 - [x] Majestic diamond cutless gloves
 - [x] Gear wrench ratchet 90t
 - [ ] Welding work clips (helping hands episode of tested)
@@ -186,4 +195,5 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Phone line simulator and two phones
 - [ ] MT2 AXA Toolpost holder
 - [ ] Jet acrylic powder
-- [ ] Alconox Ultrasonic Cleaner
+- [x] Alconox Ultrasonic Cleaner
+- [ ] Coaxial indicator
