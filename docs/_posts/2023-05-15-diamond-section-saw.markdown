@@ -6,6 +6,8 @@ categories: machine-shop
 ---
 
 
+![section-saw](/assets/section-saw/section-saw-15.jpg)
+
 ## Section Saw? 
 
 What is a section saw? A section saw is usually a small saw that utilized diamond blades to cut
@@ -38,8 +40,32 @@ Building was pretty straightforward, mostly standard techniques for everything.
 Of note was (because it's new to me) was using a boring head in the horizontal
 spindle to machine bearing seats.
 
+![section-saw](/assets/section-saw/section-saw-1.jpg)
+
+![section-saw](/assets/section-saw/section-saw-2.jpg)
+
 The frame was separated by simple and cheap aluminum standoffs. Spring washers
 used to preload the bearings.
+
+### Build Pictures
+
+![section-saw](/assets/section-saw/section-saw-3.jpg)
+
+![section-saw](/assets/section-saw/section-saw-4.jpg)
+
+![section-saw](/assets/section-saw/section-saw-5.jpg)
+
+![section-saw](/assets/section-saw/section-saw-6.jpg)
+
+![section-saw](/assets/section-saw/section-saw-7.jpg)
+
+![section-saw](/assets/section-saw/section-saw-8.jpg)
+
+![section-saw](/assets/section-saw/section-saw-9.jpg)
+
+![section-saw](/assets/section-saw/section-saw-10.jpg)
+
+![section-saw](/assets/section-saw/section-saw-11.jpg)
 
 ## Diamond Bandsaw
 
@@ -59,6 +85,8 @@ I quickly realized I needed a new solution.
 
 I build a simple version of the blade welder shown in [this paper](https://www.researchgate.net/publication/323925136_Test_rig_for_welding_diamond_wires_into_a_loop).
 
+![section-saw](/assets/section-saw/section-saw-13.jpg)
+
 They basically found that using small welding currents (20A) would properly fuse the wire. 
 
 My welding system used a small and very low friction linear slide to hold two copper
@@ -73,6 +101,10 @@ Now, I simply needed some control circuitry.
 
 As a welding process, time during welding is very important. A simple 555 
 timing circuit was utilized for this purpose.
+
+![section-saw](/assets/section-saw/section-saw-12.jpg)
+
+![section-saw](/assets/section-saw/section-saw-14.jpg)
 
 This is a monostable multivibrator put together with components I had lying around. 
 
@@ -109,10 +141,17 @@ The current wheels may be too small and also fatiguing the weld site.
 Instead of being stuck with a not-working solution and no ability to cut 
 carbide, an adapter was built that would allow the saw to use 4" lapidary saw blades. 
 
+![section-saw](/assets/section-saw/section-saw-15.jpg)
+
 These blades are also cheaply purchased and do a fine job. 
 
 Fortunately, the saw could easily be converted to hold the workpieces in
 a simple cutting sled. 
 
+![section-saw](/assets/section-saw/section-saw-16.jpg)
+
 And the test pieces (1/8" HSS drill blank and 1/16" x 1/2" carbide blank)
 were cut!
+
+
+![section-saw](/assets/section-saw/section-saw-17.jpg)
