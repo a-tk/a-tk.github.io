@@ -39,7 +39,7 @@ or do not provide enough current when run with 120V North American household
 circuits.
 
 Additionally, it seems that the MOT method lends itself to hobbyists that 
-want a quick experement, not an industrial product. 
+want a quick experiment, not an industrial product. 
 
 In my own shop (my garage), I only possess a North American 120V 15A circuit. 
 I have also been attracted to using Super Capacitors for supplying high
@@ -57,7 +57,7 @@ ultracapacitor, is a high-capacity capacitor, with a capacitance value much
 higher than other capacitors but with lower voltage limits" [wikipedia-supercapacitor]
 
 The final design in this project uses a capacitor bank of 9,000 Farads charged
-to 2.7V. Thats 9 Billion times more capacitance than a 1uF cap! 
+to 2.7V. That's 9 Billion times more capacitance than a 1uF cap! 
 
 ## Design
 
@@ -66,13 +66,13 @@ At a high level, the project consists of four components:
 1. The charging circuit
 2. The switching circuit
 3. The timing circuit
-3. The welding circuit
+4. The welding circuit
 
 ### The Charging Circuit
 
 Charging 9kF of capacitance in a reasonable timeframe is not a trivial task. 
 
-An ideal solution for this is a buck converter powers by a well designed high 
+An ideal solution for this is a buck converter powers by a well-designed high 
 current power supply. commercial server computer power supplies are ideal for
 this purpose. Luckily, I found a solution actually designed for this 
 application. For this project, I use the kWeld Supercapacitor welding buck
@@ -94,7 +94,7 @@ Secondly, there are many electronic components that are available for this
 purpose. A Silicon Controlled Rectifier, for instance, is a perfect fit, and
 will close the switch when the AC signal crosses the 0 point. Often times, 
 timing circuits take advantage of this, which is often why commercial spot 
-welders specify the time of the weld in "cycles," that refers to AC cyles
+welders specify the time of the weld in "cycles," that refers to AC cycles
 across the input of the transformer. 
 
 In a supercapacitor based welder, the switching circuit must be able
@@ -178,7 +178,7 @@ nuts to the frame for assembly.
 
 Here are a few pictures of two simple box projects made with the welder, 
 as well as a weld through several pieces of 22Ga steel to demonstrate its
-capabilitity. 
+capability. 
 
 
 ![results-1](/assets/welder/results-1.JPG)

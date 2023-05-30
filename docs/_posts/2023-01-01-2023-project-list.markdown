@@ -80,7 +80,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
     - [ ] Designs (print required on A3 sheet)
     - [ ] UV light source
     - [ ] Acrylic disks for Optical Comparator
-- [ ] White glue paint that is used on glass lampshades
+  - [ ] White glue paint that is used on glass lampshades
 - [ ] Oxtools belt sander (snack break 5)
 - [ ] Lapping plates
   - [ ] Maybe smaller versions for scraper blades, like 1-2" copper (use spiral grooves for this)
@@ -97,7 +97,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Adaptor for lapidary diamond blades
 - [ ] Slowspeed diamond lap with gearmotor
   - [ ] Sendcutsend for frame
-- [ ] Float Lock vise - column clamping ring would be good too
+- [x] Drill press vise floating column clamping ring
 - [ ] 6" sheet metal brake
   - [ ] Sendcutsend can do 1/2" A36 plate for this purpose
 - [ ] Induction heater
