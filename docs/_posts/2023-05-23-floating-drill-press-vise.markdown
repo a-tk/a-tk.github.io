@@ -5,6 +5,7 @@ date:   2023-05-15 20:13:02 -0700
 categories: machine-shop
 ---
 
+![vise](/assets/float-lock-vise/float-lock-vise-9.jpg)
 
 ## The Floating Drill Press Vise
 
@@ -31,13 +32,37 @@ with a hole, and a single cut for a flexture clamp.
 Instead of using a challenging pocket to clamp the floating rod, this design
 uses a simple block that is fit to the front of the clamping ring.
 
+### Build Photos
+
+![vise](/assets/float-lock-vise/float-lock-vise-1.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-2.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-3.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-4.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-5.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-6.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-7.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-8.jpg)
+
+![vise](/assets/float-lock-vise/float-lock-vise-9.jpg)
+
 ### Testing
 
 I chose about the hardest test by drill press will face to determine if this would work well. 
 
 Clamping an uneven, sawcut workpiece in the vise, and drilling through it with a 1/2" 
-drill without a center. 
+drill without a center.
+
+![vise](/assets/float-lock-vise/float-lock-vise-10.jpg)
 
 It worked like a charm! 
 
-Overall, I am very happy with the build and the result. 
+![vise](/assets/float-lock-vise/float-lock-vise-11.jpg)
+
+Overall, this seems like a high quality improvement to the drill press.
