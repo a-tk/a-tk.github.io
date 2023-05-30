@@ -15,7 +15,7 @@ They each come with a variety of advantages and disadvantages.
 
 In my shop, the drill press is valued largely for its ease of 
 setup and convenient use. I have gotten along without using hold downs
-on the vise for sometime, as they mostly compromise those factors too much for
+on the vise for some time, as they mostly compromise those factors too much for
 my comfort. 
 
 I was recently inspired to build a holding system out of some scrap I had
@@ -23,7 +23,7 @@ in the junk bin by this [video](https://www.youtube.com/watch?v=URrcT4CN5Qo).
 
 The design is hardly utilitarian enough for my taste though, and requires
 some tools that I don't have (such as a rotary table). The rod clamping pocket
-also appears to be very time consuming to custom-fit and difficult to machine. 
+also appears to be very time-consuming to custom-fit and difficult to machine. 
 
 Instead, I chose to build a version of this from a 1" aluminum plate, 
 with a hole, and a single cut for a flexture clamp.

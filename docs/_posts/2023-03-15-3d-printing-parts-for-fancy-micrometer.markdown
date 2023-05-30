@@ -35,14 +35,14 @@ keys.
 
 ### The Printing
 
-I have a Elegoo Mars 2 Pro MSLA printer, but I hadn't used it before this project.
+I have an Elegoo Mars 2 Pro MSLA printer, but I hadn't used it before this project.
 
 Setting up the printer is easy, and many have shown that online. 
 
 I followed [Clough42's instructions](https://www.youtube.com/watch?v=3sjxZTvp3Rg) 
 after observing that he had some success with it. 
 
-I used a CAD program to replicate most of features on the original Brown
+I used a CAD program to replicate most of the features on the original Brown
 and Sharpe part, and decided to test print it to fit on an actual 
 micrometer spindle. This key is fundamental to the accuracy of the micrometer,
 and a perfect fit is essential. 

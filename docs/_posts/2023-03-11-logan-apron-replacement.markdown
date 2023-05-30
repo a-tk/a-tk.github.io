@@ -31,7 +31,7 @@ half-nut engagement is how single-point threads are formed.
 Power cross-feed is driven by a keyway in the leadscrew. This keyway interacts
 with a pair of miter gears which can drive a spur gear on the cross-slide leadscrew. 
 
-My lathe is equiped with a Logan Quick Change Gearbox (QCGB). The gearbox didn't come with the lathe, 
+My lathe is equipped with a Logan Quick Change Gearbox (QCGB). The gearbox didn't come with the lathe, 
 it was installed afterwards. This will also get a partial rebuild during this project. 
 
 ### Problems
@@ -104,7 +104,7 @@ The work section is organized by component, not chronologically.
 The apron was purchased from eBay. It seems that there are still (as of 2022) quite a few
 sellers that are parting out Logan lathes. I purchased an apron that looked okay
 where it counted (worm gear threads were okay, no mechanical damage visible).
-However, the apron was extremely dirty and packed with chips and dried oil
+However, the apron was filthy and packed with chips and dried oil
 and multiple coats of paint.
 
 ![lathe](/assets/apron-conversion/apron-1.jpg)
@@ -183,7 +183,7 @@ a series of measurements.
 
 As it turned out, there was enough wear that machining would be a necessary
 first step. I setup the saddle on the milling machine, and used gage blocks
-to align the surfaces in a way that would balance all of the dimensions I had measured. 
+to align the surfaces in a way that would balance all the dimensions I had measured. 
 
 ![lathe](/assets/apron-conversion/saddle-4.jpg)
 
@@ -195,14 +195,14 @@ I only decided to machine the flat ways. I removed about 0.004" from them.
 
 Next, I could scrape the ways to fit the saddle. 
 
-This is the final blueing for each way surface. 
+This is the final bluing for each way surface. 
 
 ![lathe](/assets/apron-conversion/saddle-6.jpg)
 ![lathe](/assets/apron-conversion/saddle-7.jpg)
 ![lathe](/assets/apron-conversion/saddle-8.jpg)
 ![lathe](/assets/apron-conversion/saddle-9.jpg)
 
-This isn't the best job, but its definitely functional. 
+This isn't the best job, but it's definitely functional. 
 
 I know there is wear on the bedways themselves, so I chose not to get
 to carried away with the scraping. 
@@ -332,7 +332,7 @@ TBD
 #### Apron Lubrication
 
 All components where coated in way oil during final assembly. The two shells of the apron
-also recieved a silicone gasket to prevent a leaking oil bath. 
+also received a silicone gasket to prevent a leaking oil bath. 
 
 The change gears in the arpon were coated with a small amount of Shell 
 Rotella SD Special Duty Moly Grease. 

@@ -45,7 +45,7 @@ fine adjustment.
 My incarnation of this design will use grey cast iron for the base pieces, and 
 301 full-hard stainless steel for the spring. The fine-adjust knob will be made
 of whatever steel I have on hand. I'll make the attachment mast from 0.500" 
-case hardened ground stock. 
+case-hardened ground stock. 
 
 ![surface-gage](/assets/surface-gage/surface-gage-1.JPG)
 
@@ -74,7 +74,7 @@ Next, each piece was milled to size on the milling machine.
 
 ![surface-gage](/assets/surface-gage/surface-gage-4.JPG)
 
-Followed by mounting points for the the attachment mast and fine-adjust screw.
+Followed by mounting points for the attachment mast and fine-adjust screw.
 
 ![surface-gage](/assets/surface-gage/surface-gage-5.JPG)
 
@@ -118,7 +118,7 @@ I used a cut knurl I built a last year in order to create the knurl.
 
 ![surface-gage](/assets/surface-gage/surface-gage-13.JPG)
 
-Plus the attachment mast and it is pretty much completed! 
+Plus the attachment mast, and it is pretty much completed! 
 The fine-adjust screw is quite a bit too long in my opinion. I may cut it 
 down later.
 

@@ -27,15 +27,15 @@ A small DC motor to power the blade, a simple gear train (actually belts), and
 basic DC speed controller was essentially all that was there. 
 
 Taking notes from this, I designed a much smaller mechanism using scrap parts that I
-have had laying around for some time. Two 15mm aluminum plates, bearings, and a 
-small but powerful DC motor, but with a twist: I'd use diamond wire to built a
+have had lying around for some time. Two 15mm aluminum plates, bearings, and a 
+small but powerful DC motor, but with a twist: I'd use diamond wire to build a
 bandsaw blade. 
 
 ## Build
 
 Building was pretty straightforward, mostly standard techniques for everything. 
 
-Of note was (because its new to me) was using a boring head in the horizontal
+Of note was (because it's new to me) was using a boring head in the horizontal
 spindle to machine bearing seats.
 
 The frame was separated by simple and cheap aluminum standoffs. Spring washers
@@ -74,7 +74,7 @@ Now, I simply needed some control circuitry.
 As a welding process, time during welding is very important. A simple 555 
 timing circuit was utilized for this purpose.
 
-This is a monostable multivibrator put together with components I had laying around. 
+This is a monostable multivibrator put together with components I had lying around. 
 
 Since the 555 cannot produce the currents needed to saturate the contactor coil,
 a transistor on the output is used (with diode flyback protection).
