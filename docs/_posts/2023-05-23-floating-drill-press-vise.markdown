@@ -5,7 +5,7 @@ date:   2023-05-15 20:13:02 -0700
 categories: machine-shop
 ---
 
-![vise](/assets/float-lock-vise/float-lock-vise-9.jpg)
+![vise](/assets/float-lock-vise/float-lock-vise-12.png)
 
 ## The Floating Drill Press Vise
 

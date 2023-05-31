@@ -6,7 +6,7 @@ categories: machine-shop
 ---
 
 
-![section-saw](/assets/section-saw/section-saw-15.jpg)
+![section-saw](/assets/section-saw/section-saw-18.png)
 
 ## Section Saw? 
 
