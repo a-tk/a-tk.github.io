@@ -131,7 +131,6 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Mini hydraulic arm
   - [ ] investigate RC Hydraulic parts
   - [ ] Can make cheap toy from plungers
-- [x] Mini-14 sight
 - [x] Railroad spike bottle opener
 - [ ] LC Oscillator Metal detector
 - [ ] 2D physics simulation program
@@ -164,7 +163,6 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Silicone glue tray
 - [ ] Wood tongue depressors
 - [ ] Wood coffee stirrers
-- [ ] Spring nail set (like a center punch slide hammer)
 - [ ] Demagnetizer
 - [ ] Dichroic mirrors/Xcube
 - [ ] Planer Jack
@@ -181,16 +179,17 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Dewault step drill: https://www.amazon.com/gp/product/B0090IHBPU
 - [x] Majestic diamond cutless gloves
 - [x] Gear wrench ratchet 90t
-- [ ] Welding work clips (helping hands episode of tested)
+- [ ] ~~Welding work clips (helping hands episode of tested)~~
 - [ ] Pi tape
-- [ ] Kopal piccolo clamp
+- [ ] ~~Kopal piccolo clamp~~ (not needed with floating vise)
 - [ ] Pocket scale
-- [ ] 6 jaw chuck (5 inch okay)
+- [ ] ~~6 jaw chuck (5 inch okay)~~ (Found brand new 3 jaw)
 - [ ] 6 inch mill vise
 - [ ] 4MM Deckel collet (for center punch sharpening)
 - [ ] Lab hotplate
-- [ ] Socket to allen adaptors
-- [ ] Socket extensions for 1/4" and 3/8"
+- [ ] Socket adaptors: allen wrenches
+- [ ] Socket adaptor: 3/8" drive to 1/4" socket
+- [ ] Socket extensions: 3/8" drive
 - [ ] Arduino "build your own" kit
 - [ ] Phone line simulator and two phones
 - [ ] MT2 AXA Toolpost holder
