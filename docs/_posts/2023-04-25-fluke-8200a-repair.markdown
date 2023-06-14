@@ -115,4 +115,34 @@ remainder to 15V, even with low resistance will consume a bit of power.
 Over time, this must have negatively affected the transistor in a way that Q1 was not
 affected. Switching the transistors should be enough for a temporary solution.
 
+## Further Investigation
 
+After repairing my Tektronix 577 Curve Tracer, I can compare the transistors to see 
+why swapping them worked, and what is wrong with the one. 
+
+Here is the good transistor: 
+
+![fluke](/assets/fluke-repair/fluke-9.jpg)
+
+and the bad:
+
+![fluke](/assets/fluke-repair/fluke-8.jpg)
+
+Yikes! Although not completely destroyed, the bad transistor is definitely becoming
+a short circuit. The theory is that having the bad one on the 200V power line still 
+can provide power to the Nixies, and the good one as the regulator keeps the voltage
+in line. 
+
+In the future, ordering a few high voltage NPNs is a good idea, but I'll keep it in 
+this configuration for now. 
+
+Using the curve tracer, here are the specifications of the good RCA 65120:
+
+    VBRCEO: 360V
+    VBREBO: 9V
+    VBRCBO: 450V
+    hfe: 20-30
+
+For bonus fun, I drew the schematic and PCB in kicad. 
+
+You can reference the files [here.](https://github.com/a-tk/parts-files/tree/master/electronics/fluke-8200a-power-supply)
