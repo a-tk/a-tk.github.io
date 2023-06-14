@@ -152,7 +152,8 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [x] Aluminum vise jaws for welded steel vise
 
 ### Electronics
-- [ ] Tektronix 577 Repair
+- [x] Tektronix 577 Repair
+- [ ] Tektronix 577 Test Adapters
 - [x] Fluke 8200 Repair
 - [ ] Monostable multivibrator PCB design
 
