@@ -153,9 +153,9 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 
 ### Electronics
 - [x] Tektronix 577 Repair
-- [ ] Tektronix 577 Test Adapters
+- [x] Tektronix 577 Test Adapters
 - [x] Fluke 8200 Repair
-- [ ] Monostable multivibrator PCB design
+- [x] Monostable multivibrator PCB design
 
 ### WTB
 - [ ] Planimeter
@@ -184,7 +184,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Pi tape
 - [ ] ~~Kopal piccolo clamp~~ (not needed with floating vise)
 - [ ] Pocket scale
-- [ ] ~~6 jaw chuck (5 inch okay)~~ (Found brand new 3 jaw)
+- [x] ~~6 jaw chuck (5 inch okay)~~ (Found brand new 3 jaw)
 - [ ] 6 inch mill vise
 - [ ] 4MM Deckel collet (for center punch sharpening)
 - [ ] Lab hotplate
