@@ -10,26 +10,38 @@ categories: machine-shop
 ## The Floating Drill Press Vise
 
 Methods for securing drill presses to their tables have existed since
-the invention of the machine.
+the invention of the machine. Each of these come with a variety of advantages
+and disadvantages.
 
-They each come with a variety of advantages and disadvantages. 
+For example, consider the humble drill press vise. 
 
-In my shop, the drill press is valued largely for its ease of 
-setup and convenient use. I have gotten along without using hold downs
-on the vise for some time, as they mostly compromise those factors too much for
-my comfort. 
+A drill press vise does
+ - securely clamps material/stock to itself.
+ - provide several points that the user can use to stabilize the vise.
+ - and some other things.
 
-I was recently inspired to build a holding system out of some scrap I had
-in the junk bin by this [video](https://www.youtube.com/watch?v=URrcT4CN5Qo).
+A drill press vise does not
+ - lock the workpiece to the table on its own.
+ - allow easy transition of the workpiece to the next drilling point while the vise is locked to the table.
+ - provide an accurate way of locating a hole and clamping itself to the drill press.
 
-The design is hardly utilitarian enough for my taste though, and requires
+In my shop, the drill press is highly valued for its convenient and easy
+setup. Using screws and bolts to hold the vise down
+to the table is not convenient and is not easy to set up accurately. C-clamps
+can be used as a cheap alternative, but are also finicky.
+
+[Pask Makes on YouTube](https://www.youtube.com/watch?v=URrcT4CN5Qo) inspired the
+solution to these problems with a floating vise lock.
+
+Pask's design is hardly utilitarian enough for my taste though, and requires
 some tools that I don't have (such as a rotary table). The rod clamping pocket
-also appears to be very time-consuming to custom-fit and difficult to machine. 
+also appears to require a custom-fit, which would be time-consuming to machine. 
 
-Instead, I chose to build a version of this from a 1" aluminum plate, 
-with a hole, and a single cut for a flexture clamp.
+The design for my own floating vise clamp uses a two-piece flexture
+clamp to simultaneously clamp a floating rod and the flexture to
+the drill press column.
 
-Instead of using a challenging pocket to clamp the floating rod, this design
+Instead of using a machined pocket to clamp a floating rod, this design
 uses a simple block that is fit to the front of the clamping ring.
 
 ### Build Photos
@@ -54,7 +66,7 @@ uses a simple block that is fit to the front of the clamping ring.
 
 ### Testing
 
-I chose about the hardest test by drill press will face to determine if this would work well. 
+I chose a difficult test for a drill press to determine if the clamp would work well. 
 
 Clamping an uneven, sawcut workpiece in the vise, and drilling through it with a 1/2" 
 drill without a center.
@@ -65,4 +77,4 @@ It worked like a charm!
 
 ![vise](/assets/float-lock-vise/float-lock-vise-11.jpg)
 
-Overall, this seems like a high quality improvement to the drill press.
+Overall, I am really excited everytime that I use the new vise clamp. 
