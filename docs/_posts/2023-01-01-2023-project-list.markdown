@@ -62,6 +62,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 
 ### Tool Building
 - [x] Small gage for measuring depth of scraping marks
+- [ ] Sheet metal frame for pocket depth microscopes (send cut send)
 - [ ] Spring nail set
 - [ ] Vintage Weltrekord ratcheting screwdriver
 - [ ] Low profile milling machine side clamps
