@@ -99,8 +99,8 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Slowspeed diamond lap with gearmotor
   - [ ] Sendcutsend for frame
 - [x] Drill press vise floating column clamping ring
-- [ ] 6" sheet metal brake
-  - [ ] Sendcutsend can do 1/2" A36 plate for this purpose
+- [x] 6" sheet metal brake
+  - [x] Sendcutsend can do 1/2" A36 plate for this purpose
 - [ ] Induction heater
   - [ ] http://inductionheatertutorial.com/
   - [ ] http://uzzors2k.com/index.php?page=pllinductionheater1
@@ -116,6 +116,8 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Used 3" 6061 round stock, 1" thick
 - [ ] Tailstock die holder
 - [ ] Mill spindle indicator clamp
+- [ ] Di Acro Shear stock hold downs (easy project with SendCutSend and horizontal mill)
+- [ ] Oxtools bender in repacement of Di Acro 1A
 
 ### Science Experiments
 - [ ] Black fire with SOXe light
