@@ -73,15 +73,6 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Optical comparator V Block
 - [ ] Dumore grinder wheel guard from sheet metal
 - [x] Rebore Di-Acro slip roll pin bushing
-- [ ] Screen printing for comparator
-  - [ ] Need
-    - [ ] Mesh screen
-    - [ ] Oil based paint
-    - [ ] UV curing emulsion
-    - [ ] Designs (print required on A3 sheet)
-    - [ ] UV light source
-    - [ ] Acrylic disks for Optical Comparator
-  - [ ] White glue paint that is used on glass lampshades
 - [ ] Oxtools belt sander (snack break 5)
 - [ ] Lapping plates
   - [ ] Maybe smaller versions for scraper blades, like 1-2" copper (use spiral grooves for this)
@@ -139,9 +130,9 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] 2D physics simulation program
 
 ### Maintenance/Improvements
-- [ ] Lano-lube protection
+- [x] Lano-lube protection
   - [x] Straight edge
-  - [ ] Gage blocks
+  - [x] Gage blocks
 - [x] Tool rack on back of tool cart
   - [x] Common hammer + files
   - [x] Electric screwdriver
@@ -149,7 +140,6 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
-- [ ] Carbide Spot Drill Repair
 - [ ] Carbide 3-facet spot drills
 - [ ] Steady-rest repair
 - [x] Aluminum vise jaws for welded steel vise
@@ -173,11 +163,6 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Chemistry wash bottle
 - [ ] Hydrometer
 - [ ] New Tools
-  - [ ] Milwaukee M18 Fuel Drill/Driver combo
-  - [ ] Milwaukee M18 Fuel Router
-  - [x] Milwaukee M12 ratchet 3/8 (not high speed)
-  - [x] Makita Impact socket sets with vinyl organizers
-  - [ ] Jigsaw (possibly M18 based)
   - [ ] Pneumatic brad nailer
   - [ ] Random orbit sander
 - [ ] Dewault step drill: https://www.amazon.com/gp/product/B0090IHBPU
