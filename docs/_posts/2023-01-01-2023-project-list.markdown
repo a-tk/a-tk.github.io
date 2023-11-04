@@ -110,6 +110,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Di Acro Shear stock hold downs (easy project with SendCutSend and horizontal mill)
 - [ ] Oxtools bender in repacement of Di Acro 1A
 - [ ] Carbide 3-facet spot drills
+- [ ] Small mill stop https://youtu.be/7xX69e0sawE?si=BKZOh0ODodaATHnE&t=1912
 
 ### Science Experiments
 - [ ] Black fire with SOXe light
