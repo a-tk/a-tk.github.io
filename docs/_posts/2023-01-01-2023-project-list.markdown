@@ -19,17 +19,16 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Lathe apron conversion leftover
   - [ ] Shim rack to fit new apron properly
 - [ ] Consider 11" lathe upgrades
-  - [ ] 11" headstock for larger collet size - ~$200-400
-  - [ ] 11" Spindle Brake (not that expensive, but rare. Probably an easy build)
-  - [ ] Solid Toolpost for proper center height
-  - [ ] 5C Collet Closer (expensive!) - ~$400-600
+  - [x] 11" headstock for larger collet size - ~$200-400
+  - [ ] ~~11" Spindle Brake (not that expensive, but rare. Probably an easy build)~~
+  - [x] 5C Collet Close
   - [ ] Optional
     - [ ] Taper Attachment https://www.lathe.com/images/pl-taper.gif, https://www.lathe.com/images/tel-taper.gif
 - [ ] Consider selling old lathe parts
   - [ ] Both tailstocks
   - [ ] Headstock
-  - [ ] Headstock spindle bearings
-  - [ ] Steady Rest
+  - [x] Headstock spindle bearings
+  - [x] Steady Rest
   - [ ] Old Apron
   - [ ] Old carriage
   - [ ] Old topslide
