@@ -18,10 +18,10 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 #### Lathe
 - [ ] Lathe apron conversion leftover
   - [ ] Shim rack to fit new apron properly
-- [ ] Consider 11" lathe upgrades
+- [x] Consider 11" lathe upgrades
   - [x] 11" headstock for larger collet size - ~$200-400
   - [ ] ~~11" Spindle Brake (not that expensive, but rare. Probably an easy build)~~
-  - [x] 5C Collet Close
+  - [x] 5C Collet Closer
   - [ ] Optional
     - [ ] Taper Attachment https://www.lathe.com/images/pl-taper.gif, https://www.lathe.com/images/tel-taper.gif
 - [ ] Consider selling old lathe parts
@@ -57,7 +57,8 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Mill DRO
 
 #### 3D Printing
-- [ ] Flexible 3D printing table (PEI Sheet)
+- [x] Flexible 3D printing table (PEI Sheet)
+- [ ] Tek 577 interlock defeat
 
 ### Tool Building
 - [x] Small gage for measuring depth of scraping marks
@@ -141,7 +142,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
-- [ ] Steady-rest repair
+- [x] Steady-rest repair
 - [x] Aluminum vise jaws for welded steel vise
 
 ### Electronics
