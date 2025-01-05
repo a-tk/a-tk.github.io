@@ -17,103 +17,103 @@ bend 16Ga steel.
 ## Photo Essay
 
 
-![p1](/assets/2023-press-brake/p1.png)
+![p1](/assets/2023-press-brake/p1.jpg)
 
-![p1](/assets/2023-press-brake/p2.png)
+![p1](/assets/2023-press-brake/p2.jpg)
 
-![p1](/assets/2023-press-brake/p3.png)
+![p1](/assets/2023-press-brake/p3.jpg)
 
-![p1](/assets/2023-press-brake/p4.png)
+![p1](/assets/2023-press-brake/p4.jpg)
 
-![p1](/assets/2023-press-brake/p5.png)
+![p1](/assets/2023-press-brake/p5.jpg)
 
-![p1](/assets/2023-press-brake/p6.png)
+![p1](/assets/2023-press-brake/p6.jpg)
 
-![p1](/assets/2023-press-brake/p7.png)
+![p1](/assets/2023-press-brake/p7.jpg)
 
-![p1](/assets/2023-press-brake/p8.png)
+![p1](/assets/2023-press-brake/p8.jpg)
 
-![p1](/assets/2023-press-brake/p9.png)
+![p1](/assets/2023-press-brake/p9.jpg)
 
 These bearings are cast iron.
 
-![p1](/assets/2023-press-brake/p10.png)
+![p1](/assets/2023-press-brake/p10.jpg)
 
-![p1](/assets/2023-press-brake/p11.png)
+![p1](/assets/2023-press-brake/p11.jpg)
 
-![p1](/assets/2023-press-brake/p12.png)
+![p1](/assets/2023-press-brake/p12.jpg)
 
-![p1](/assets/2023-press-brake/p13.png)
+![p1](/assets/2023-press-brake/p13.jpg)
 
-![p1](/assets/2023-press-brake/p14.png)
+![p1](/assets/2023-press-brake/p14.jpg)
 
-![p1](/assets/2023-press-brake/p15.png)
+![p1](/assets/2023-press-brake/p15.jpg)
 
 Horizontal milling finds good application here.
 
-![p1](/assets/2023-press-brake/p16.png)
+![p1](/assets/2023-press-brake/p16.jpg)
 
-![p1](/assets/2023-press-brake/p17.png)
+![p1](/assets/2023-press-brake/p17.jpg)
 
-![p1](/assets/2023-press-brake/p18.png)
+![p1](/assets/2023-press-brake/p18.jpg)
 
-![p1](/assets/2023-press-brake/p19.png)
+![p1](/assets/2023-press-brake/p19.jpg)
 
-![p1](/assets/2023-press-brake/p20.png)
+![p1](/assets/2023-press-brake/p20.jpg)
 
-![p1](/assets/2023-press-brake/p21.png)
+![p1](/assets/2023-press-brake/p21.jpg)
 
-![p1](/assets/2023-press-brake/p22.png)
+![p1](/assets/2023-press-brake/p22.jpg)
 
-![p1](/assets/2023-press-brake/p23.png)
+![p1](/assets/2023-press-brake/p23.jpg)
 
-![p1](/assets/2023-press-brake/p24.png)
+![p1](/assets/2023-press-brake/p24.jpg)
 
-![p1](/assets/2023-press-brake/p25.png)
+![p1](/assets/2023-press-brake/p25.jpg)
 
-![p1](/assets/2023-press-brake/p26.png)
+![p1](/assets/2023-press-brake/p26.jpg)
 
-![p1](/assets/2023-press-brake/p27.png)
+![p1](/assets/2023-press-brake/p27.jpg)
 
 If I were to rebuild this, it would be better faster to insert 0.75"
 dowel pins into the eccentric. A hardened bearing surface would come as a bonus.
 
-![p1](/assets/2023-press-brake/p28.png)
+![p1](/assets/2023-press-brake/p28.jpg)
 
-![p1](/assets/2023-press-brake/p29.png)
+![p1](/assets/2023-press-brake/p29.jpg)
 
-![p1](/assets/2023-press-brake/p30.png)
+![p1](/assets/2023-press-brake/p30.jpg)
 
-![p1](/assets/2023-press-brake/p31.png)
+![p1](/assets/2023-press-brake/p31.jpg)
 
-![p1](/assets/2023-press-brake/p32.png)
+![p1](/assets/2023-press-brake/p32.jpg)
 
-![p1](/assets/2023-press-brake/p33.png)
+![p1](/assets/2023-press-brake/p33.jpg)
 
-![p1](/assets/2023-press-brake/p34.png)
+![p1](/assets/2023-press-brake/p34.jpg)
 
-![p1](/assets/2023-press-brake/p35.png)
+![p1](/assets/2023-press-brake/p35.jpg)
 
-![p1](/assets/2023-press-brake/p36.png)
+![p1](/assets/2023-press-brake/p36.jpg)
 
-![p1](/assets/2023-press-brake/p37.png)
+![p1](/assets/2023-press-brake/p37.jpg)
 
-![p1](/assets/2023-press-brake/p38.png)
+![p1](/assets/2023-press-brake/p38.jpg)
 
-![p1](/assets/2023-press-brake/p39.png)
+![p1](/assets/2023-press-brake/p39.jpg)
 
-![p1](/assets/2023-press-brake/p40.png)
+![p1](/assets/2023-press-brake/p40.jpg)
 
-![p1](/assets/2023-press-brake/p41.png)
+![p1](/assets/2023-press-brake/p41.jpg)
 
-![p1](/assets/2023-press-brake/p42.png)
+![p1](/assets/2023-press-brake/p42.jpg)
 
-![p1](/assets/2023-press-brake/p43.png)
+![p1](/assets/2023-press-brake/p43.jpg)
 
-![p1](/assets/2023-press-brake/p44.png)
+![p1](/assets/2023-press-brake/p44.jpg)
 
-![p1](/assets/2023-press-brake/p45.png)
+![p1](/assets/2023-press-brake/p45.jpg)
 
-![p1](/assets/2023-press-brake/p46.png)
+![p1](/assets/2023-press-brake/p46.jpg)
 
-![p1](/assets/2023-press-brake/p47.png)
+![p1](/assets/2023-press-brake/p47.jpg)
