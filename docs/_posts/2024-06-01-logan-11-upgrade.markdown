@@ -36,7 +36,7 @@ but everything else was in good working order.
 
 ![h1](/assets/2024-headstock-conv/h2.JPG)
 
-Here shown in comparison with the 10" sprindle housing.
+Here shown in comparison with the 10" spindle housing.
 
 ![h1](/assets/2024-headstock-conv/h9.JPG)
 
@@ -57,7 +57,7 @@ After cleanup, the new headstock and tailstock can be "installed".
 
 One primary concern with any used lathe headstock is the condition of its spindle bearings.
 
-The topic of spindle bearings in general is beyond the scope of this blog, and convered
+The topic of spindle bearings in general is beyond the scope of this blog, and converted
 well elsewhere. I did however, need to purchase new ones. 
 
 If you are familiar with Logan lathes, you know that new parts are still available for them!
@@ -78,7 +78,7 @@ babbit.
 ![h1](/assets/2024-headstock-conv/h4.JPG)
 
 The front headstock bearing is a 50mmx80mm bearing. Logan sells replacements for $169, which is expensive
-but not astronomical. I decided to buy one diectly from Logan, because it is not clear what 
+but not astronomical. I decided to buy one directly from Logan, because it is not clear what 
 specifications the bearings are made to. 
 
 To my surprise, an SKF Explorer arrived! Armed with this knowledge, I bought my own rear bearing for a
@@ -144,7 +144,7 @@ Initially, the underdrive was used with the same tensioning mechanism as before,
 90 degrees.
 ![h1](/assets/2024-headstock-conv/h17.JPG)
 
-This proved undesireable, and as a stopgap, I bolted the motor to a cart underneath the lathe.
+This proved undesirable, and as a stopgap, I bolted the motor to a cart underneath the lathe.
 
 ![h1](/assets/2024-headstock-conv/h18.JPG)
 
@@ -184,13 +184,13 @@ control and motor amperage output to an analog gauge.
 First project! Spindle adapter for 5C collets.
 
 These are commercially available, and appear on eBay frequently, but for varying amounts of money.
-The commercial ones have an undesireable feature though, they protrude form the spindle by nearly 1/2".
+The commercial ones have an undesirable feature though, they protrude form the spindle by nearly 1/2".
 
 My design will be completely located inside the spindle. This will reduce the effective diameter of the
 spindle to 1-1/8" from 1-3/8", but allow me to use collets in combination with a standard lathe chuck. 
 This combination enables very efficient repeatability and location or alignment in common setups.
 
-![collet-adapter](/assets/2024-headstock-conv/collet-adapter.JPG)
+![collet-adapter](/assets/2024-headstock-conv/collet-adapter.png)
 
 I did make both versions of the adapter: 
 

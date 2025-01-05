@@ -22,7 +22,7 @@ with seemingly random number systems and sparse information online I wasn't conf
 
 In any case, Smith nickel plated torch body is wonderful eye candy!
 
-I also picked up a 40 cu.ft. cylinder of Oxygen from a local supplier, and a small (5lb.) sylinder of
+I also picked up a 40 cu.ft. cylinder of Oxygen from a local supplier, and a small (5lb.) cylinder of
 propane. The big decision here is what fuel gas to use. In the small shop, acetylene is too limiting
 if you are to avoid the dangers of using it.
 

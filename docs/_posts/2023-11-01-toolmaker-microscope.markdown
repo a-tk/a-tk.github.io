@@ -36,7 +36,7 @@ The handscraped ways of the vertical column are a feature a bygone age in manufa
 ![u4](/assets/2023-unitron/u4.JPG)
 
 The base hides the electrics for dimming each lamp. To do so, the provided mains power is reduced
-with autotransformers for two outlets.
+with auto-transformers for two outlets.
 
 ![u5](/assets/2023-unitron/u5.JPG)
 
