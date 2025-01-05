@@ -59,6 +59,15 @@ Here are the exact values I used:
 | MW 205 | 0.044" | 0.140" | 0.140" |
 | MW 205 | 0.0625" | 0.187" | 0.187" |
 
+
+![cb](/assets/2024-brazing/cb.jpg)
+
 ## Results
 
-The counterbores were remarkably effective. 
+The added counterbores were effective at sustaining a flame. Even flames that
+were very loud could be sustained.
+
+
+![flame](/assets/2024-brazing/flame.jpg)
+
+![brazed-cube](/assets/2024-brazing/brazed-cube.jpg)

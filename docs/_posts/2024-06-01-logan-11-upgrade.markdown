@@ -28,11 +28,30 @@ that Logan used standard deep groove ball bearings for spindle bearings.
 
 The unit was nicely shipped in a wooden crate and received without drama.
 
-TODO
+![h1](/assets/2024-headstock-conv/h1.JPG)
 
 Upon receiving the unit, I disassembled and inspected it. I was happy to see 
-a hardened and ground spindle, in very good condition. The current bearings were very gummy, 
+a hardened and ground spindle, in very good condition. The current bearings were gummy though, 
 but everything else was in good working order.
+
+![h1](/assets/2024-headstock-conv/h2.JPG)
+
+Here shown in comparison with the 10" sprindle housing.
+
+![h1](/assets/2024-headstock-conv/h9.JPG)
+
+![h1](/assets/2024-headstock-conv/h5.JPG)
+
+A new tailstock is required too! The 11" tailstock is more sturdy than the already sturdy 10",
+with longer ram stroke too.
+
+![h1](/assets/2024-headstock-conv/h7.JPG)
+
+After cleanup, the new headstock and tailstock can be "installed".
+
+![h1](/assets/2024-headstock-conv/h10.JPG)
+
+![h1](/assets/2024-headstock-conv/h11.JPG)
 
 ## New Headstock Bearings
 
@@ -54,6 +73,10 @@ Curiously, the 11" Logan lathe was designed to use standard single-row deep groo
 This is in contrast to other manufacturers of a similar time period, who used taper roller bearings or poured 
 babbit.
 
+![h1](/assets/2024-headstock-conv/h3.JPG)
+
+![h1](/assets/2024-headstock-conv/h4.JPG)
+
 The front headstock bearing is a 50mmx80mm bearing. Logan sells replacements for $169, which is expensive
 but not astronomical. I decided to buy one diectly from Logan, because it is not clear what 
 specifications the bearings are made to. 
@@ -61,6 +84,24 @@ specifications the bearings are made to.
 To my surprise, an SKF Explorer arrived! Armed with this knowledge, I bought my own rear bearing for a
 significant discount. Now, these are not exceptional bearings, but the headstock arrangement doesn't
 permit a higher capacity bearing without modification.
+
+![h1](/assets/2024-headstock-conv/h8.JPG)
+
+![h1](/assets/2024-headstock-conv/h9.JPG)
+
+The bearing numbers are: 
+
+ - 6010 2ZNRJEM
+ - 6009 2Z
+
+How much axial force do these bearings load? A simple model of this is to press the carriage
+against a fixed surface to measure the force. Here shown with a dynamometer.
+
+![h12](/assets/2024-headstock-conv/h12.JPG)
+
+150lbs. Less than I expected to be honest, and much less than the common load capacity of
+50% radial load capacity for single row ball bearings.
+
 
 ## Headstock Drive
 
@@ -76,11 +117,67 @@ In my shop, I had a spare 3-phase 1HP motor laying around, as well as a VFD
 that I scavenged many years before. These, in combination with a direct belt drive
 will run the lathe.
 
+![h1](/assets/2024-headstock-conv/h30.JPG)
+
+As can be seen here, significant space is available behind the lathe without the
+drive mechanism there.
+
+The same bed is used for underdrive lathes as well, so I knew it would have enough
+clearance for a belt. The underdrive lathes use a different drive pulley on the
+spindle though.
+
+A hole was cut in the table:
+
+![h1](/assets/2024-headstock-conv/h13.JPG)
+
+And an idler guide developed to ensure clearance with the larger spindle drive pulley.
+
+![h1](/assets/2024-headstock-conv/h16.JPG)
+
+![h1](/assets/2024-headstock-conv/h14.JPG)
+
+![h1](/assets/2024-headstock-conv/h15.JPG)
+
+This will be redesigned later, as it provides unnecessary resistance and noise.
+
+Initially, the underdrive was used with the same tensioning mechanism as before, only rotated
+90 degrees.
+![h1](/assets/2024-headstock-conv/h17.JPG)
+
+This proved undesireable, and as a stopgap, I bolted the motor to a cart underneath the lathe.
+
+![h1](/assets/2024-headstock-conv/h18.JPG)
+
+![h1](/assets/2024-headstock-conv/h19.JPG)
+
+Ultimately, the motor is attached underneath the lathe with tensioner and
+drives the spindle directly.
+
+![h1](/assets/2024-headstock-conv/h20.JPG)
+
+![h1](/assets/2024-headstock-conv/h21.JPG)
+
+![h1](/assets/2024-headstock-conv/h22.JPG)
+
+This gives the lathe speeds of 0 - 1200RPM. However, the low torque is undesirable at low speeds.
+Fortunately the lathe has back gears.
+
 ## Controls
 
 In a VFD controlled machine, controls are naturally digital. Digital controls however,
 contrast with the 1950's style of the lathe. I aspired to control the VFD with a lever for
 selecting forward and reverse, which would be accessible from the operator position of the machine.
+
+A small enclosure was built (with a helping hand from my press brake).
+
+![h1](/assets/2024-headstock-conv/h32.JPG)
+
+![h1](/assets/2024-headstock-conv/h31.JPG)
+
+And a few design iterations produced a liveable lever operated forward and reverse, with speed
+control and motor amperage output to an analog gauge.
+
+![h1](/assets/2024-headstock-conv/h29.JPG)
 
 ## The Result
 
@@ -93,6 +190,19 @@ My design will be completely located inside the spindle. This will reduce the ef
 spindle to 1-1/8" from 1-3/8", but allow me to use collets in combination with a standard lathe chuck. 
 This combination enables very efficient repeatability and location or alignment in common setups.
 
-![collet-adapter](/assets/2024-headstock-conv/collet-adapter.png)
+![collet-adapter](/assets/2024-headstock-conv/collet-adapter.JPG)
 
-TODO - photos
+I did make both versions of the adapter: 
+
+![h1](/assets/2024-headstock-conv/h24.JPG)
+
+![h1](/assets/2024-headstock-conv/h23.JPG)
+
+As can be seen, the collet fits nicely in the nose of the spindle.
+
+![h1](/assets/2024-headstock-conv/h25.JPG)
+
+This took several months of "hobby time" during which I also acquired an affordable
+collet-closer. A little bit of cleanup on it and I know have a remarkably modern lathe!
+
+![h1](/assets/2024-headstock-conv/h26.JPG)
