@@ -18,18 +18,17 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 #### Lathe
 - [ ] Lathe apron conversion leftover
   - [ ] Shim rack to fit new apron properly
-- [ ] Consider 11" lathe upgrades
-  - [ ] 11" headstock for larger collet size - ~$200-400
-  - [ ] 11" Spindle Brake (not that expensive, but rare. Probably an easy build)
-  - [ ] Solid Toolpost for proper center height
-  - [ ] 5C Collet Closer (expensive!) - ~$400-600
+- [x] Consider 11" lathe upgrades
+  - [x] 11" headstock for larger collet size - ~$200-400
+  - [ ] ~~11" Spindle Brake (not that expensive, but rare. Probably an easy build)~~
+  - [x] 5C Collet Closer
   - [ ] Optional
     - [ ] Taper Attachment https://www.lathe.com/images/pl-taper.gif, https://www.lathe.com/images/tel-taper.gif
 - [ ] Consider selling old lathe parts
   - [ ] Both tailstocks
   - [ ] Headstock
-  - [ ] Headstock spindle bearings
-  - [ ] Steady Rest
+  - [x] Headstock spindle bearings
+  - [x] Steady Rest
   - [ ] Old Apron
   - [ ] Old carriage
   - [ ] Old topslide
@@ -58,7 +57,8 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Mill DRO
 
 #### 3D Printing
-- [ ] Flexible 3D printing table
+- [x] Flexible 3D printing table (PEI Sheet)
+- [ ] Tek 577 interlock defeat
 
 ### Tool Building
 - [x] Small gage for measuring depth of scraping marks
@@ -102,13 +102,15 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [ ] Flycutter
 - [ ] Beam Trammel
 - [ ] Angle blocks for Di Acro shear
-- [ ] Hex wrench organizer with Spring
+- [ ] Hex wrench organizer with Spring (Ronco Style)
 - [x] Bottom plate for microscope desk mount
   - [x] Used 3" 6061 round stock, 1" thick
 - [ ] Tailstock die holder
 - [ ] Mill spindle indicator clamp
 - [ ] Di Acro Shear stock hold downs (easy project with SendCutSend and horizontal mill)
 - [ ] Oxtools bender in repacement of Di Acro 1A
+- [ ] Carbide 3-facet spot drills
+- [ ] Small mill stop https://youtu.be/7xX69e0sawE?si=BKZOh0ODodaATHnE&t=1912
 
 ### Science Experiments
 - [ ] Black fire with SOXe light
@@ -140,8 +142,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
   - [x] Drill + driver
   - [x] Charger
   - [x] Safety glasses
-- [ ] Carbide 3-facet spot drills
-- [ ] Steady-rest repair
+- [x] Steady-rest repair
 - [x] Aluminum vise jaws for welded steel vise
 
 ### Electronics
@@ -169,7 +170,7 @@ dumping ground for the wild hair projects I get when I often can't sleep.
 - [x] Majestic diamond cutless gloves
 - [x] Gear wrench ratchet 90t
 - [ ] ~~Welding work clips (helping hands episode of tested)~~
-- [ ] Pi tape
+- [ ] ~~Pi tape~~
 - [ ] ~~Kopal piccolo clamp~~ (not needed with floating vise)
 - [ ] Pocket scale
 - [x] ~~6 jaw chuck (5 inch okay)~~ (Found brand new 3 jaw)
