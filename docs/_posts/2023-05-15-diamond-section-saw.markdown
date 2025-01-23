@@ -122,10 +122,10 @@ While I could now produce welding diamond saw blades, I found limited success in
 their use. Welding the blades will almost always create a weld bead that exceeds the 
 current diameter of the wire, and this would need to pass through a cut many hundreds
 of times before a cut is complete. Extensive testing revealed that the blade
-weld sites would also fail from fatigue before the completion of a weld. 
+weld sites would also fail from fatigue before the completion of a cut. 
 
 Testing parameters:
-- Wire diameter
+- wire diameter
 - welding current
 - welding voltage
 - welding pressure
