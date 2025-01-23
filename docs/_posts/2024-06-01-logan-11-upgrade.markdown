@@ -168,7 +168,9 @@ In a VFD controlled machine, controls are naturally digital. Digital controls ho
 contrast with the 1950's style of the lathe. I aspired to control the VFD with a lever for
 selecting forward and reverse, which would be accessible from the operator position of the machine.
 
-A small enclosure was built (with a helping hand from my press brake).
+A small enclosure was built (with a helping hand from
+[my new press brake](/machine-shop/2023/09/30/bench-size-press-brake.html)).
+
 
 ![h1](/assets/2024-headstock-conv/h32.JPG)
 
