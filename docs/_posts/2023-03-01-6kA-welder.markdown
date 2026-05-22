@@ -8,6 +8,10 @@ categories: machine-shop
 
 ## Introduction
 
+Circuit Files are located here: https://workspace.circuitmaker.com/Projects/Details/AndreKeys-2/MosFET-Spot-Welder-6kA
+
+NOTE: Circuitmaker is very limited when sharing files, I much prefer KiCad for circuit designs.
+
 Since seeing Dan Gelbart's workshop series on youtube (highly recommended)
 I have been interested in possessing a spot welder. 
 
